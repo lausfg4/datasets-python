@@ -1,0 +1,901 @@
+CodigoTienda;Tienda;CodigoProducto;DescripcionProduto;Matricula;NombreVendedor;FechaDeVenta;PrecioUnitario;Cantidad;Valorventa
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456444;Ana Lopez;01/12/2025;310;2;620
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456777;Pedro Sanchez;03/04/2025;700;1;700
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456444;Ana Lopez;23/10/2025;250;2;500
+TIENDA05;Sucursal Este;10014;Refrigerador;123456222;Maria Garcia;20/01/2025;1200;4;4800
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456555;Carlos Gomez;22/01/2024;1500;1;1500
+TIENDA05;Sucursal Este;10021;Aire Acondicionado;123456999;Ricardo Rivera;25/05/2025;1800;2;3600
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456333;Jorge Mateus;19/05/2025;1200;2;2400
+TIENDA03;Sucursal Sur;10023;Consola de Videojuegos;123456555;Carlos Gomez;15/06/2024;700;2;1400
+TIENDA02;Sucursal Norte;10017;Cama;123456444;Ana Lopez;11/12/2024;2800;3;8400
+TIENDA05;Sucursal Este;10024;Equipo de Sonido;123456222;Maria Garcia;30/03/2025;850;1;850
+TIENDA04;Sucursal Oeste;10018;Colchón;123456888;Elena Morales;21/03/2024;310;1;310
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456222;Maria Garcia;24/01/2025;250;3;750
+TIENDA06;Sucursal Central;10004;Lavadora;123456000;Sofia Torres;03/12/2025;2400;1;2400
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456000;Sofia Torres;26/09/2024;1200;4;4800
+TIENDA07;Sucursal Chiriquí;10017;Cama;123456888;Elena Morales;02/12/2025;2800;1;2800
+TIENDA05;Sucursal Este;10018;Colchón;123456222;Maria Garcia;04/08/2024;310;3;930
+TIENDA04;Sucursal Oeste;10018;Colchón;123456999;Ricardo Rivera;04/06/2025;310;1;310
+TIENDA01;Matriz;10013;Estufa;123456888;Elena Morales;26/01/2025;600;1;600
+TIENDA03;Sucursal Sur;10001;Smartphone;123456333;Jorge Mateus;04/05/2025;1500;2;3000
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456000;Sofia Torres;19/07/2024;80;4;320
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456222;Maria Garcia;10/02/2025;1500;1;1500
+TIENDA06;Sucursal Central;10005;Laptop;123456888;Elena Morales;26/12/2025;3000;2;6000
+TIENDA03;Sucursal Sur;10001;Smartphone;123456333;Jorge Mateus;06/04/2025;1500;1;1500
+TIENDA03;Sucursal Sur;10005;Laptop;123456111;Jose Martinez;01/02/2025;3000;2;6000
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456999;Ricardo Rivera;07/07/2025;310;1;310
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456333;Jorge Mateus;05/04/2024;240;2;480
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456555;Carlos Gomez;19/06/2024;240;1;240
+TIENDA05;Sucursal Este;10016;Armario;123456444;Ana Lopez;29/11/2025;1500;1;1500
+TIENDA03;Sucursal Sur;10002;Tablet;123456666;Luisa Fernandez;27/07/2025;1000;2;2000
+TIENDA01;Matriz;10007;Mezclador;123456555;Carlos Gomez;11/09/2025;200;2;400
+TIENDA04;Sucursal Oeste;10013;Estufa;123456444;Ana Lopez;13/12/2024;600;1;600
+TIENDA01;Matriz;10001;Smartphone;123456777;Pedro Sanchez;09/10/2024;1500;1;1500
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456999;Ricardo Rivera;15/09/2024;850;1;850
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456666;Luisa Fernandez;13/11/2024;250;2;500
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456111;Jose Martinez;25/10/2025;700;1;700
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456666;Luisa Fernandez;11/05/2025;80;1;80
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456444;Ana Lopez;20/01/2025;1200;1;1200
+TIENDA03;Sucursal Sur;10005;Laptop;123456111;Jose Martinez;21/03/2024;3000;1;3000
+TIENDA03;Sucursal Sur;10002;Tablet;123456111;Jose Martinez;19/07/2025;1000;2;2000
+TIENDA07;Sucursal Chiriquí;10001;Smartphone;123456555;Carlos Gomez;29/09/2025;1500;2;3000
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456555;Carlos Gomez;10/12/2025;1200;1;1200
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456444;Ana Lopez;04/02/2025;600;1;600
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456666;Luisa Fernandez;16/07/2024;3000;2;6000
+TIENDA06;Sucursal Central;10011;Licuadora;123456111;Jose Martinez;21/11/2024;80;1;80
+TIENDA05;Sucursal Este;10024;Equipo de Sonido;123456333;Jorge Mateus;06/02/2025;850;1;850
+TIENDA02;Sucursal Norte;10023;Consola de Videojuegos;123456333;Jorge Mateus;11/12/2025;700;1;700
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456999;Ricardo Rivera;04/07/2025;1500;1;1500
+TIENDA02;Sucursal Norte;10001;Smartphone;123456888;Elena Morales;17/04/2025;1500;2;3000
+TIENDA02;Sucursal Norte;10012;Procesador de alimentos;123456777;Pedro Sanchez;23/05/2024;180;1;180
+TIENDA02;Sucursal Norte;10024;Equipo de Sonido;123456999;Ricardo Rivera;02/01/2024;850;2;1700
+TIENDA01;Matriz;10005;Laptop;123456555;Carlos Gomez;09/01/2024;3000;3;9000
+TIENDA01;Matriz;10023;Consola de Videojuegos;123456333;Jorge Mateus;10/05/2024;700;2;1400
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456888;Elena Morales;09/08/2025;1500;2;3000
+TIENDA01;Matriz;10004;Lavadora;123456888;Elena Morales;10/09/2024;2400;3;7200
+TIENDA03;Sucursal Sur;10003;Televisor;123456999;Ricardo Rivera;03/12/2024;3500;5;17500
+TIENDA02;Sucursal Norte;10003;Televisor;123456666;Luisa Fernandez;11/11/2025;3500;2;7000
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456111;Jose Martinez;03/10/2024;2400;1;2400
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456888;Elena Morales;04/02/2025;250;3;750
+TIENDA01;Matriz;10017;Cama;123456333;Jorge Mateus;17/08/2024;2800;2;5600
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456333;Jorge Mateus;13/08/2024;250;2;500
+TIENDA05;Sucursal Este;10018;Colchón;123456111;Jose Martinez;28/03/2025;310;2;620
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456333;Jorge Mateus;18/02/2024;2400;1;2400
+TIENDA01;Matriz;10007;Mezclador;123456555;Carlos Gomez;06/02/2024;200;1;200
+TIENDA05;Sucursal Este;10017;Cama;123456111;Jose Martinez;08/04/2024;2800;4;11200
+TIENDA04;Sucursal Oeste;10024;Equipo de Sonido;123456111;Jose Martinez;09/06/2024;850;1;850
+TIENDA03;Sucursal Sur;10012;Procesador de alimentos;123456222;Maria Garcia;23/07/2025;180;4;720
+TIENDA03;Sucursal Sur;10017;Cama;123456888;Elena Morales;14/10/2024;2800;1;2800
+TIENDA07;Sucursal Chiriquí;10002;Tablet;123456666;Luisa Fernandez;04/05/2025;1000;1;1000
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456000;Sofia Torres;27/01/2025;1800;3;5400
+TIENDA03;Sucursal Sur;10020;Impresora;123456666;Luisa Fernandez;12/11/2025;600;2;1200
+TIENDA07;Sucursal Chiriquí;10003;Televisor;123456000;Sofia Torres;11/02/2025;3500;1;3500
+TIENDA05;Sucursal Este;10008;Cafetera;123456000;Sofia Torres;15/11/2025;240;2;480
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456111;Jose Martinez;03/02/2025;250;2;500
+TIENDA06;Sucursal Central;10018;Colchón;123456333;Jorge Mateus;27/12/2025;310;1;310
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456666;Luisa Fernandez;28/07/2025;700;2;1400
+TIENDA06;Sucursal Central;10021;Aire Acondicionado;123456666;Luisa Fernandez;23/02/2024;1800;1;1800
+TIENDA03;Sucursal Sur;10001;Smartphone;123456555;Carlos Gomez;25/07/2025;1500;3;4500
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456555;Carlos Gomez;15/12/2024;240;1;240
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456333;Jorge Mateus;25/09/2024;250;2;500
+TIENDA02;Sucursal Norte;10023;Consola de Videojuegos;123456000;Sofia Torres;26/08/2025;700;3;2100
+TIENDA02;Sucursal Norte;10005;Laptop;123456777;Pedro Sanchez;06/05/2024;3000;1;3000
+TIENDA01;Matriz;10001;Smartphone;123456555;Carlos Gomez;27/05/2025;1500;1;1500
+TIENDA07;Sucursal Chiriquí;10020;Impresora;123456222;Maria Garcia;24/08/2024;600;1;600
+TIENDA05;Sucursal Este;10020;Impresora;123456111;Jose Martinez;04/12/2025;600;2;1200
+TIENDA07;Sucursal Chiriquí;10003;Televisor;123456555;Carlos Gomez;17/10/2025;3500;1;3500
+TIENDA03;Sucursal Sur;10017;Cama;123456555;Carlos Gomez;16/02/2024;2800;1;2800
+TIENDA01;Matriz;10005;Laptop;123456444;Ana Lopez;05/08/2024;3000;2;6000
+TIENDA02;Sucursal Norte;10008;Cafetera;123456555;Carlos Gomez;10/09/2024;240;1;240
+TIENDA06;Sucursal Central;10012;Procesador de alimentos;123456555;Carlos Gomez;09/04/2024;180;4;720
+TIENDA02;Sucursal Norte;10012;Procesador de alimentos;123456444;Ana Lopez;17/03/2025;180;2;360
+TIENDA01;Matriz;10005;Laptop;123456888;Elena Morales;16/01/2024;3000;2;6000
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456222;Maria Garcia;08/06/2024;1800;3;5400
+TIENDA03;Sucursal Sur;10014;Refrigerador;123456444;Ana Lopez;14/01/2025;1200;1;1200
+TIENDA01;Matriz;10023;Consola de Videojuegos;123456111;Jose Martinez;24/09/2024;700;3;2100
+TIENDA03;Sucursal Sur;10001;Smartphone;123456111;Jose Martinez;12/02/2024;1500;2;3000
+TIENDA04;Sucursal Oeste;10023;Consola de Videojuegos;123456222;Maria Garcia;27/12/2025;700;2;1400
+TIENDA01;Matriz;10010;Freidor elétrico;123456000;Sofia Torres;24/08/2025;250;1;250
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456222;Maria Garcia;14/07/2024;700;1;700
+TIENDA02;Sucursal Norte;10022;Monitor Gaming;123456555;Carlos Gomez;16/02/2025;450;2;900
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456999;Ricardo Rivera;01/04/2025;2400;1;2400
+TIENDA03;Sucursal Sur;10003;Televisor;123456111;Jose Martinez;05/04/2024;3500;1;3500
+TIENDA07;Sucursal Chiriquí;10014;Refrigerador;123456555;Carlos Gomez;08/06/2025;1200;1;1200
+TIENDA07;Sucursal Chiriquí;10003;Televisor;123456999;Ricardo Rivera;29/09/2024;3500;1;3500
+TIENDA01;Matriz;10020;Impresora;123456444;Ana Lopez;31/01/2025;600;1;600
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456333;Jorge Mateus;20/03/2025;1800;1;1800
+TIENDA01;Matriz;10014;Refrigerador;123456333;Jorge Mateus;18/12/2025;1200;1;1200
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456444;Ana Lopez;23/05/2024;700;2;1400
+TIENDA05;Sucursal Este;10003;Televisor;123456555;Carlos Gomez;13/04/2025;3500;2;7000
+TIENDA04;Sucursal Oeste;10020;Impresora;123456555;Carlos Gomez;18/04/2024;600;3;1800
+TIENDA05;Sucursal Este;10008;Cafetera;123456000;Sofia Torres;25/09/2025;240;5;1200
+TIENDA05;Sucursal Este;10013;Estufa;123456333;Jorge Mateus;10/08/2025;600;2;1200
+TIENDA01;Matriz;10014;Refrigerador;123456000;Sofia Torres;17/08/2024;1200;3;3600
+TIENDA07;Sucursal Chiriquí;10012;Procesador de alimentos;123456888;Elena Morales;25/09/2025;180;1;180
+TIENDA02;Sucursal Norte;10005;Laptop;123456555;Carlos Gomez;09/10/2025;3000;1;3000
+TIENDA05;Sucursal Este;10024;Equipo de Sonido;123456111;Jose Martinez;22/11/2024;850;1;850
+TIENDA01;Matriz;10004;Lavadora;123456444;Ana Lopez;18/02/2025;2400;1;2400
+TIENDA03;Sucursal Sur;10008;Cafetera;123456666;Luisa Fernandez;14/06/2025;240;1;240
+TIENDA07;Sucursal Chiriquí;10016;Armario;123456333;Jorge Mateus;07/08/2024;1500;1;1500
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456000;Sofia Torres;26/12/2024;850;1;850
+TIENDA07;Sucursal Chiriquí;10003;Televisor;123456111;Jose Martinez;08/07/2024;3500;2;7000
+TIENDA01;Matriz;10001;Smartphone;123456111;Jose Martinez;13/05/2024;1500;1;1500
+TIENDA02;Sucursal Norte;10020;Impresora;123456555;Carlos Gomez;21/07/2024;600;2;1200
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456555;Carlos Gomez;15/06/2025;2400;2;4800
+TIENDA01;Matriz;10018;Colchón;123456222;Maria Garcia;09/06/2025;310;2;620
+TIENDA07;Sucursal Chiriquí;10003;Televisor;123456111;Jose Martinez;12/01/2024;3500;4;14000
+TIENDA02;Sucursal Norte;10007;Mezclador;123456888;Elena Morales;29/10/2025;200;2;400
+TIENDA05;Sucursal Este;10004;Lavadora;123456888;Elena Morales;28/11/2025;2400;2;4800
+TIENDA04;Sucursal Oeste;10005;Laptop;123456222;Maria Garcia;04/12/2025;3000;5;15000
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456666;Luisa Fernandez;24/12/2025;1800;1;1800
+TIENDA05;Sucursal Este;10007;Mezclador;123456333;Jorge Mateus;12/09/2024;200;4;800
+TIENDA05;Sucursal Este;10002;Tablet;123456999;Ricardo Rivera;29/08/2024;1000;1;1000
+TIENDA03;Sucursal Sur;10001;Smartphone;123456555;Carlos Gomez;25/05/2024;1500;3;4500
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456111;Jose Martinez;03/03/2024;600;2;1200
+TIENDA01;Matriz;10021;Aire Acondicionado;123456666;Luisa Fernandez;01/09/2025;1800;3;5400
+TIENDA01;Matriz;10001;Smartphone;123456333;Jorge Mateus;01/06/2025;1500;1;1500
+TIENDA04;Sucursal Oeste;10005;Laptop;123456111;Jose Martinez;12/03/2025;3000;5;15000
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456555;Carlos Gomez;23/03/2024;3000;3;9000
+TIENDA01;Matriz;10017;Cama;123456555;Carlos Gomez;01/01/2024;2800;1;2800
+TIENDA03;Sucursal Sur;10001;Smartphone;123456444;Ana Lopez;03/02/2024;1500;2;3000
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456888;Elena Morales;04/11/2025;240;2;480
+TIENDA06;Sucursal Central;10003;Televisor;123456666;Luisa Fernandez;24/09/2024;3500;2;7000
+TIENDA01;Matriz;10014;Refrigerador;123456666;Luisa Fernandez;04/02/2025;1200;2;2400
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456777;Pedro Sanchez;31/07/2025;310;3;930
+TIENDA03;Sucursal Sur;10008;Cafetera;123456333;Jorge Mateus;01/11/2024;240;1;240
+TIENDA02;Sucursal Norte;10018;Colchón;123456222;Maria Garcia;22/03/2025;310;1;310
+TIENDA02;Sucursal Norte;10007;Mezclador;123456444;Ana Lopez;30/11/2024;200;2;400
+TIENDA04;Sucursal Oeste;10012;Procesador de alimentos;123456777;Pedro Sanchez;12/05/2024;180;3;540
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456444;Ana Lopez;25/11/2024;180;4;720
+TIENDA01;Matriz;10005;Laptop;123456444;Ana Lopez;22/02/2024;3000;5;15000
+TIENDA02;Sucursal Norte;10018;Colchón;123456333;Jorge Mateus;01/07/2024;310;1;310
+TIENDA07;Sucursal Chiriquí;10020;Impresora;123456666;Luisa Fernandez;25/12/2024;600;2;1200
+TIENDA04;Sucursal Oeste;10003;Televisor;123456888;Elena Morales;28/10/2025;3500;3;10500
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456222;Maria Garcia;05/01/2024;700;1;700
+TIENDA02;Sucursal Norte;10007;Mezclador;123456000;Sofia Torres;20/08/2024;200;1;200
+TIENDA04;Sucursal Oeste;10017;Cama;123456000;Sofia Torres;18/03/2024;2800;1;2800
+TIENDA02;Sucursal Norte;10018;Colchón;123456999;Ricardo Rivera;26/08/2024;310;2;620
+TIENDA06;Sucursal Central;10004;Lavadora;123456111;Jose Martinez;16/09/2025;2400;3;7200
+TIENDA03;Sucursal Sur;10018;Colchón;123456444;Ana Lopez;25/02/2024;310;2;620
+TIENDA06;Sucursal Central;10017;Cama;123456000;Sofia Torres;30/12/2024;2800;2;5600
+TIENDA02;Sucursal Norte;10023;Consola de Videojuegos;123456888;Elena Morales;14/09/2025;700;2;1400
+TIENDA07;Sucursal Chiriquí;10007;Mezclador;123456222;Maria Garcia;15/01/2024;200;2;400
+TIENDA01;Matriz;10005;Laptop;123456777;Pedro Sanchez;08/02/2024;3000;1;3000
+TIENDA01;Matriz;10008;Cafetera;123456111;Jose Martinez;05/05/2024;240;1;240
+TIENDA04;Sucursal Oeste;10021;Aire Acondicionado;123456999;Ricardo Rivera;25/01/2024;1800;1;1800
+TIENDA04;Sucursal Oeste;10003;Televisor;123456000;Sofia Torres;25/05/2024;3500;2;7000
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456444;Ana Lopez;14/09/2025;310;2;620
+TIENDA01;Matriz;10012;Procesador de alimentos;123456333;Jorge Mateus;01/06/2025;180;1;180
+TIENDA04;Sucursal Oeste;10002;Tablet;123456000;Sofia Torres;10/11/2024;1000;1;1000
+TIENDA05;Sucursal Este;10005;Laptop;123456666;Luisa Fernandez;12/03/2025;3000;4;12000
+TIENDA06;Sucursal Central;10007;Mezclador;123456555;Carlos Gomez;15/09/2025;200;1;200
+TIENDA04;Sucursal Oeste;10011;Licuadora;123456888;Elena Morales;30/08/2024;80;1;80
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456888;Elena Morales;10/08/2024;3000;5;15000
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456222;Maria Garcia;04/01/2024;850;4;3400
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456666;Luisa Fernandez;27/07/2025;1800;2;3600
+TIENDA01;Matriz;10018;Colchón;123456222;Maria Garcia;26/01/2024;310;2;620
+TIENDA03;Sucursal Sur;10007;Mezclador;123456555;Carlos Gomez;24/12/2025;200;4;800
+TIENDA01;Matriz;10021;Aire Acondicionado;123456444;Ana Lopez;01/01/2024;1800;2;3600
+TIENDA02;Sucursal Norte;10005;Laptop;123456666;Luisa Fernandez;25/05/2025;3000;2;6000
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456333;Jorge Mateus;10/01/2024;1500;1;1500
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456777;Pedro Sanchez;13/01/2024;180;5;900
+TIENDA02;Sucursal Norte;10001;Smartphone;123456444;Ana Lopez;24/11/2024;1500;1;1500
+TIENDA01;Matriz;10013;Estufa;123456999;Ricardo Rivera;03/07/2025;600;2;1200
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456333;Jorge Mateus;23/08/2024;1800;3;5400
+TIENDA02;Sucursal Norte;10013;Estufa;123456555;Carlos Gomez;10/08/2025;600;4;2400
+TIENDA03;Sucursal Sur;10001;Smartphone;123456333;Jorge Mateus;25/07/2025;1500;2;3000
+TIENDA05;Sucursal Este;10013;Estufa;123456888;Elena Morales;26/09/2024;600;3;1800
+TIENDA04;Sucursal Oeste;10005;Laptop;123456333;Jorge Mateus;13/01/2025;3000;3;9000
+TIENDA06;Sucursal Central;10004;Lavadora;123456000;Sofia Torres;11/02/2024;2400;1;2400
+TIENDA01;Matriz;10010;Freidor elétrico;123456222;Maria Garcia;07/09/2025;250;2;500
+TIENDA06;Sucursal Central;10007;Mezclador;123456333;Jorge Mateus;28/07/2025;200;2;400
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456111;Jose Martinez;17/05/2025;1800;3;5400
+TIENDA02;Sucursal Norte;10010;Freidor elétrico;123456555;Carlos Gomez;08/02/2024;250;1;250
+TIENDA03;Sucursal Sur;10007;Mezclador;123456666;Luisa Fernandez;27/06/2024;200;1;200
+TIENDA02;Sucursal Norte;10018;Colchón;123456444;Ana Lopez;15/10/2024;310;3;930
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456777;Pedro Sanchez;16/03/2025;2400;5;12000
+TIENDA01;Matriz;10001;Smartphone;123456555;Carlos Gomez;20/08/2025;1500;1;1500
+TIENDA02;Sucursal Norte;10005;Laptop;123456000;Sofia Torres;27/04/2024;3000;3;9000
+TIENDA06;Sucursal Central;10016;Armario;123456444;Ana Lopez;26/11/2025;1500;1;1500
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456888;Elena Morales;19/11/2024;3000;2;6000
+TIENDA04;Sucursal Oeste;10023;Consola de Videojuegos;123456222;Maria Garcia;18/10/2024;700;2;1400
+TIENDA02;Sucursal Norte;10024;Equipo de Sonido;123456555;Carlos Gomez;03/07/2025;850;1;850
+TIENDA06;Sucursal Central;10018;Colchón;123456888;Elena Morales;28/12/2024;310;1;310
+TIENDA04;Sucursal Oeste;10016;Armario;123456000;Sofia Torres;28/07/2024;1500;1;1500
+TIENDA01;Matriz;10018;Colchón;123456111;Jose Martinez;13/11/2025;310;2;620
+TIENDA04;Sucursal Oeste;10020;Impresora;123456444;Ana Lopez;06/05/2024;600;2;1200
+TIENDA02;Sucursal Norte;10011;Licuadora;123456111;Jose Martinez;29/01/2024;80;1;80
+TIENDA06;Sucursal Central;10011;Licuadora;123456888;Elena Morales;10/02/2025;80;4;320
+TIENDA01;Matriz;10017;Cama;123456555;Carlos Gomez;01/01/2024;2800;1;2800
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456666;Luisa Fernandez;22/10/2025;700;2;1400
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456999;Ricardo Rivera;08/11/2024;80;1;80
+TIENDA05;Sucursal Este;10011;Licuadora;123456000;Sofia Torres;31/08/2024;80;1;80
+TIENDA01;Matriz;10013;Estufa;123456000;Sofia Torres;28/07/2024;600;4;2400
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456222;Maria Garcia;27/06/2024;1800;2;3600
+TIENDA06;Sucursal Central;10008;Cafetera;123456888;Elena Morales;15/05/2025;240;1;240
+TIENDA01;Matriz;10013;Estufa;123456111;Jose Martinez;04/06/2024;600;2;1200
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456555;Carlos Gomez;24/03/2024;1800;1;1800
+TIENDA01;Matriz;10024;Equipo de Sonido;123456111;Jose Martinez;20/04/2025;850;1;850
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456888;Elena Morales;20/05/2024;1800;1;1800
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456777;Pedro Sanchez;23/12/2025;700;1;700
+TIENDA06;Sucursal Central;10016;Armario;123456111;Jose Martinez;23/05/2024;1500;1;1500
+TIENDA03;Sucursal Sur;10001;Smartphone;123456222;Maria Garcia;23/06/2024;1500;3;4500
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456222;Maria Garcia;08/11/2025;1800;1;1800
+TIENDA03;Sucursal Sur;10001;Smartphone;123456444;Ana Lopez;24/02/2024;1500;1;1500
+TIENDA07;Sucursal Chiriquí;10012;Procesador de alimentos;123456333;Jorge Mateus;10/06/2024;180;1;180
+TIENDA04;Sucursal Oeste;10022;Monitor Gaming;123456111;Jose Martinez;08/01/2024;450;3;1350
+TIENDA01;Matriz;10003;Televisor;123456999;Ricardo Rivera;18/03/2025;3500;1;3500
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456888;Elena Morales;20/02/2024;310;2;620
+TIENDA01;Matriz;10002;Tablet;123456888;Elena Morales;28/03/2024;1000;3;3000
+TIENDA06;Sucursal Central;10017;Cama;123456888;Elena Morales;27/03/2025;2800;3;8400
+TIENDA04;Sucursal Oeste;10017;Cama;123456555;Carlos Gomez;07/01/2024;2800;1;2800
+TIENDA02;Sucursal Norte;10001;Smartphone;123456777;Pedro Sanchez;26/05/2024;1500;1;1500
+TIENDA05;Sucursal Este;10004;Lavadora;123456333;Jorge Mateus;22/03/2024;2400;2;4800
+TIENDA02;Sucursal Norte;10018;Colchón;123456111;Jose Martinez;06/06/2025;310;2;620
+TIENDA02;Sucursal Norte;10003;Televisor;123456222;Maria Garcia;30/01/2025;3500;2;7000
+TIENDA04;Sucursal Oeste;10005;Laptop;123456555;Carlos Gomez;13/08/2024;3000;1;3000
+TIENDA05;Sucursal Este;10024;Equipo de Sonido;123456333;Jorge Mateus;29/12/2024;850;5;4250
+TIENDA01;Matriz;10017;Cama;123456000;Sofia Torres;21/12/2025;2800;2;5600
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456333;Jorge Mateus;05/07/2025;1800;1;1800
+TIENDA02;Sucursal Norte;10008;Cafetera;123456999;Ricardo Rivera;04/10/2024;240;1;240
+TIENDA03;Sucursal Sur;10016;Armario;123456444;Ana Lopez;15/03/2024;1500;2;3000
+TIENDA06;Sucursal Central;10012;Procesador de alimentos;123456222;Maria Garcia;03/02/2024;180;2;360
+TIENDA01;Matriz;10007;Mezclador;123456555;Carlos Gomez;21/08/2025;200;3;600
+TIENDA05;Sucursal Este;10007;Mezclador;123456000;Sofia Torres;01/09/2025;200;2;400
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456999;Ricardo Rivera;04/02/2025;240;2;480
+TIENDA02;Sucursal Norte;10017;Cama;123456555;Carlos Gomez;28/12/2024;2800;1;2800
+TIENDA01;Matriz;10004;Lavadora;123456333;Jorge Mateus;29/01/2024;2400;3;7200
+TIENDA05;Sucursal Este;10013;Estufa;123456888;Elena Morales;22/04/2024;600;1;600
+TIENDA03;Sucursal Sur;10010;Freidor elétrico;123456777;Pedro Sanchez;07/04/2024;250;2;500
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456888;Elena Morales;01/07/2025;3000;2;6000
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456444;Ana Lopez;05/05/2025;700;2;1400
+TIENDA01;Matriz;10011;Licuadora;123456222;Maria Garcia;15/05/2025;80;3;240
+TIENDA01;Matriz;10010;Freidor elétrico;123456999;Ricardo Rivera;04/08/2024;250;2;500
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456888;Elena Morales;10/05/2024;180;2;360
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456555;Carlos Gomez;22/04/2025;1200;2;2400
+TIENDA06;Sucursal Central;10014;Refrigerador;123456222;Maria Garcia;13/02/2024;1200;1;1200
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456111;Jose Martinez;11/05/2025;1800;4;7200
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456888;Elena Morales;22/10/2025;700;2;1400
+TIENDA01;Matriz;10005;Laptop;123456777;Pedro Sanchez;10/12/2025;3000;2;6000
+TIENDA01;Matriz;10014;Refrigerador;123456222;Maria Garcia;03/05/2025;1200;1;1200
+TIENDA05;Sucursal Este;10018;Colchón;123456000;Sofia Torres;16/01/2024;310;1;310
+TIENDA07;Sucursal Chiriquí;10008;Cafetera;123456111;Jose Martinez;20/09/2025;240;1;240
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456999;Ricardo Rivera;12/05/2025;700;4;2800
+TIENDA03;Sucursal Sur;10022;Monitor Gaming;123456777;Pedro Sanchez;06/01/2025;450;2;900
+TIENDA07;Sucursal Chiriquí;10022;Monitor Gaming;123456333;Jorge Mateus;06/09/2025;450;2;900
+TIENDA01;Matriz;10003;Televisor;123456888;Elena Morales;07/04/2024;3500;2;7000
+TIENDA03;Sucursal Sur;10013;Estufa;123456555;Carlos Gomez;01/07/2024;600;1;600
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456777;Pedro Sanchez;30/05/2025;310;3;930
+TIENDA05;Sucursal Este;10016;Armario;123456666;Luisa Fernandez;16/01/2024;1500;2;3000
+TIENDA05;Sucursal Este;10014;Refrigerador;123456000;Sofia Torres;06/11/2024;1200;1;1200
+TIENDA03;Sucursal Sur;10002;Tablet;123456000;Sofia Torres;20/05/2024;1000;1;1000
+TIENDA02;Sucursal Norte;10008;Cafetera;123456333;Jorge Mateus;29/01/2024;240;1;240
+TIENDA06;Sucursal Central;10014;Refrigerador;123456111;Jose Martinez;15/03/2025;1200;2;2400
+TIENDA04;Sucursal Oeste;10012;Procesador de alimentos;123456999;Ricardo Rivera;24/12/2024;180;1;180
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456555;Carlos Gomez;03/01/2024;1500;1;1500
+TIENDA05;Sucursal Este;10022;Monitor Gaming;123456888;Elena Morales;19/10/2024;450;1;450
+TIENDA01;Matriz;10017;Cama;123456111;Jose Martinez;02/02/2025;2800;1;2800
+TIENDA01;Matriz;10004;Lavadora;123456999;Ricardo Rivera;01/03/2024;2400;1;2400
+TIENDA05;Sucursal Este;10008;Cafetera;123456666;Luisa Fernandez;28/10/2024;240;3;720
+TIENDA03;Sucursal Sur;10008;Cafetera;123456222;Maria Garcia;24/07/2025;240;5;1200
+TIENDA04;Sucursal Oeste;10023;Consola de Videojuegos;123456666;Luisa Fernandez;25/11/2024;700;2;1400
+TIENDA03;Sucursal Sur;10011;Licuadora;123456222;Maria Garcia;15/09/2024;80;1;80
+TIENDA06;Sucursal Central;10005;Laptop;123456555;Carlos Gomez;27/12/2025;3000;2;6000
+TIENDA01;Matriz;10003;Televisor;123456999;Ricardo Rivera;26/07/2025;3500;2;7000
+TIENDA03;Sucursal Sur;10003;Televisor;123456000;Sofia Torres;02/03/2024;3500;3;10500
+TIENDA01;Matriz;10003;Televisor;123456888;Elena Morales;29/04/2024;3500;3;10500
+TIENDA05;Sucursal Este;10011;Licuadora;123456999;Ricardo Rivera;22/12/2024;80;3;240
+TIENDA02;Sucursal Norte;10003;Televisor;123456999;Ricardo Rivera;24/06/2025;3500;1;3500
+TIENDA01;Matriz;10002;Tablet;123456333;Jorge Mateus;04/06/2025;1000;3;3000
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456888;Elena Morales;13/08/2024;3000;2;6000
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456666;Luisa Fernandez;24/06/2024;250;2;500
+TIENDA02;Sucursal Norte;10007;Mezclador;123456222;Maria Garcia;18/11/2025;200;4;800
+TIENDA05;Sucursal Este;10016;Armario;123456555;Carlos Gomez;09/02/2024;1500;3;4500
+TIENDA05;Sucursal Este;10003;Televisor;123456333;Jorge Mateus;09/02/2024;3500;1;3500
+TIENDA03;Sucursal Sur;10007;Mezclador;123456111;Jose Martinez;01/12/2024;200;2;400
+TIENDA04;Sucursal Oeste;10020;Impresora;123456111;Jose Martinez;28/12/2024;600;2;1200
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456999;Ricardo Rivera;28/10/2025;180;1;180
+TIENDA06;Sucursal Central;10005;Laptop;123456777;Pedro Sanchez;31/01/2024;3000;3;9000
+TIENDA07;Sucursal Chiriquí;10012;Procesador de alimentos;123456000;Sofia Torres;12/03/2025;180;3;540
+TIENDA06;Sucursal Central;10022;Monitor Gaming;123456777;Pedro Sanchez;18/12/2025;450;3;1350
+TIENDA05;Sucursal Este;10002;Tablet;123456777;Pedro Sanchez;15/02/2024;1000;1;1000
+TIENDA03;Sucursal Sur;10011;Licuadora;123456111;Jose Martinez;10/08/2024;80;2;160
+TIENDA02;Sucursal Norte;10016;Armario;123456888;Elena Morales;21/11/2024;1500;3;4500
+TIENDA03;Sucursal Sur;10012;Procesador de alimentos;123456777;Pedro Sanchez;15/02/2025;180;1;180
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456555;Carlos Gomez;28/04/2025;2400;1;2400
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456444;Ana Lopez;04/02/2025;1800;3;5400
+TIENDA02;Sucursal Norte;10001;Smartphone;123456666;Luisa Fernandez;29/04/2024;1500;1;1500
+TIENDA03;Sucursal Sur;10022;Monitor Gaming;123456222;Maria Garcia;17/11/2025;450;5;2250
+TIENDA05;Sucursal Este;10003;Televisor;123456444;Ana Lopez;04/04/2025;3500;2;7000
+TIENDA07;Sucursal Chiriquí;10007;Mezclador;123456111;Jose Martinez;03/04/2025;200;1;200
+TIENDA02;Sucursal Norte;10002;Tablet;123456777;Pedro Sanchez;11/10/2024;1000;1;1000
+TIENDA04;Sucursal Oeste;10003;Televisor;123456111;Jose Martinez;08/02/2024;3500;2;7000
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456777;Pedro Sanchez;09/05/2024;600;1;600
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456444;Ana Lopez;16/01/2025;600;1;600
+TIENDA04;Sucursal Oeste;10018;Colchón;123456888;Elena Morales;24/03/2024;310;1;310
+TIENDA06;Sucursal Central;10005;Laptop;123456333;Jorge Mateus;13/09/2024;3000;5;15000
+TIENDA02;Sucursal Norte;10018;Colchón;123456666;Luisa Fernandez;11/06/2024;310;2;620
+TIENDA01;Matriz;10014;Refrigerador;123456999;Ricardo Rivera;06/05/2025;1200;2;2400
+TIENDA03;Sucursal Sur;10017;Cama;123456888;Elena Morales;27/08/2025;2800;1;2800
+TIENDA05;Sucursal Este;10018;Colchón;123456888;Elena Morales;15/07/2025;310;2;620
+TIENDA04;Sucursal Oeste;10003;Televisor;123456777;Pedro Sanchez;23/11/2025;3500;3;10500
+TIENDA04;Sucursal Oeste;10003;Televisor;123456000;Sofia Torres;10/06/2025;3500;1;3500
+TIENDA01;Matriz;10021;Aire Acondicionado;123456777;Pedro Sanchez;04/06/2025;1800;2;3600
+TIENDA06;Sucursal Central;10002;Tablet;123456999;Ricardo Rivera;29/01/2025;1000;3;3000
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456111;Jose Martinez;15/11/2024;250;2;500
+TIENDA02;Sucursal Norte;10013;Estufa;123456666;Luisa Fernandez;11/04/2024;600;2;1200
+TIENDA01;Matriz;10013;Estufa;123456888;Elena Morales;28/03/2024;600;2;1200
+TIENDA01;Matriz;10014;Refrigerador;123456111;Jose Martinez;02/11/2025;1200;5;6000
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456666;Luisa Fernandez;29/08/2024;850;1;850
+TIENDA04;Sucursal Oeste;10002;Tablet;123456111;Jose Martinez;11/08/2025;1000;2;2000
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456000;Sofia Torres;30/03/2024;240;1;240
+TIENDA06;Sucursal Central;10022;Monitor Gaming;123456000;Sofia Torres;15/04/2024;450;3;1350
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456111;Jose Martinez;26/09/2025;250;2;500
+TIENDA06;Sucursal Central;10007;Mezclador;123456999;Ricardo Rivera;10/08/2024;200;2;400
+TIENDA01;Matriz;10014;Refrigerador;123456222;Maria Garcia;20/11/2025;1200;3;3600
+TIENDA04;Sucursal Oeste;10018;Colchón;123456444;Ana Lopez;07/01/2024;310;3;930
+TIENDA03;Sucursal Sur;10020;Impresora;123456444;Ana Lopez;09/11/2024;600;2;1200
+TIENDA06;Sucursal Central;10003;Televisor;123456000;Sofia Torres;30/11/2025;3500;1;3500
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456222;Maria Garcia;20/06/2025;1200;1;1200
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456333;Jorge Mateus;21/12/2024;700;5;3500
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456888;Elena Morales;23/12/2025;700;1;700
+TIENDA06;Sucursal Central;10011;Licuadora;123456555;Carlos Gomez;14/12/2025;80;2;160
+TIENDA03;Sucursal Sur;10018;Colchón;123456333;Jorge Mateus;27/11/2024;310;1;310
+TIENDA01;Matriz;10024;Equipo de Sonido;123456555;Carlos Gomez;29/12/2024;850;2;1700
+TIENDA06;Sucursal Central;10022;Monitor Gaming;123456444;Ana Lopez;30/08/2025;450;3;1350
+TIENDA01;Matriz;10002;Tablet;123456444;Ana Lopez;31/07/2025;1000;2;2000
+TIENDA07;Sucursal Chiriquí;10004;Lavadora;123456222;Maria Garcia;05/01/2025;2400;1;2400
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456666;Luisa Fernandez;13/06/2025;1200;1;1200
+TIENDA05;Sucursal Este;10003;Televisor;123456111;Jose Martinez;09/04/2024;3500;3;10500
+TIENDA06;Sucursal Central;10012;Procesador de alimentos;123456777;Pedro Sanchez;29/11/2024;180;1;180
+TIENDA02;Sucursal Norte;10005;Laptop;123456777;Pedro Sanchez;06/07/2025;3000;3;9000
+TIENDA06;Sucursal Central;10018;Colchón;123456666;Luisa Fernandez;18/08/2024;310;2;620
+TIENDA01;Matriz;10002;Tablet;123456444;Ana Lopez;24/05/2024;1000;1;1000
+TIENDA03;Sucursal Sur;10002;Tablet;123456999;Ricardo Rivera;17/09/2024;1000;3;3000
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456111;Jose Martinez;06/11/2025;250;2;500
+TIENDA05;Sucursal Este;10018;Colchón;123456777;Pedro Sanchez;10/01/2024;310;1;310
+TIENDA03;Sucursal Sur;10017;Cama;123456666;Luisa Fernandez;27/08/2025;2800;1;2800
+TIENDA02;Sucursal Norte;10001;Smartphone;123456999;Ricardo Rivera;13/11/2025;1500;1;1500
+TIENDA04;Sucursal Oeste;10024;Equipo de Sonido;123456111;Jose Martinez;16/04/2024;850;1;850
+TIENDA05;Sucursal Este;10014;Refrigerador;123456555;Carlos Gomez;11/05/2025;1200;2;2400
+TIENDA04;Sucursal Oeste;10018;Colchón;123456888;Elena Morales;11/09/2025;310;3;930
+TIENDA03;Sucursal Sur;10022;Monitor Gaming;123456444;Ana Lopez;25/05/2025;450;5;2250
+TIENDA05;Sucursal Este;10001;Smartphone;123456444;Ana Lopez;16/07/2024;1500;1;1500
+TIENDA05;Sucursal Este;10005;Laptop;123456555;Carlos Gomez;21/11/2025;3000;1;3000
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456000;Sofia Torres;03/08/2024;850;5;4250
+TIENDA03;Sucursal Sur;10022;Monitor Gaming;123456222;Maria Garcia;08/02/2024;450;5;2250
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456888;Elena Morales;03/03/2025;310;2;620
+TIENDA06;Sucursal Central;10016;Armario;123456444;Ana Lopez;09/01/2025;1500;1;1500
+TIENDA02;Sucursal Norte;10001;Smartphone;123456555;Carlos Gomez;30/10/2025;1500;2;3000
+TIENDA06;Sucursal Central;10018;Colchón;123456555;Carlos Gomez;11/07/2024;310;1;310
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456777;Pedro Sanchez;23/04/2024;600;2;1200
+TIENDA02;Sucursal Norte;10010;Freidor elétrico;123456111;Jose Martinez;10/08/2025;250;3;750
+TIENDA03;Sucursal Sur;10017;Cama;123456888;Elena Morales;01/01/2024;2800;4;11200
+TIENDA03;Sucursal Sur;10020;Impresora;123456555;Carlos Gomez;24/08/2025;600;2;1200
+TIENDA06;Sucursal Central;10022;Monitor Gaming;123456222;Maria Garcia;28/07/2025;450;2;900
+TIENDA01;Matriz;10011;Licuadora;123456111;Jose Martinez;07/08/2025;80;5;400
+TIENDA05;Sucursal Este;10013;Estufa;123456999;Ricardo Rivera;15/01/2025;600;3;1800
+TIENDA06;Sucursal Central;10007;Mezclador;123456444;Ana Lopez;26/04/2025;200;1;200
+TIENDA02;Sucursal Norte;10023;Consola de Videojuegos;123456999;Ricardo Rivera;02/10/2025;700;3;2100
+TIENDA06;Sucursal Central;10008;Cafetera;123456666;Luisa Fernandez;16/10/2025;240;1;240
+TIENDA01;Matriz;10008;Cafetera;123456000;Sofia Torres;27/08/2025;240;2;480
+TIENDA01;Matriz;10021;Aire Acondicionado;123456111;Jose Martinez;17/10/2024;1800;2;3600
+TIENDA04;Sucursal Oeste;10013;Estufa;123456666;Luisa Fernandez;13/09/2025;600;2;1200
+TIENDA06;Sucursal Central;10002;Tablet;123456000;Sofia Torres;03/01/2024;1000;2;2000
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456000;Sofia Torres;29/03/2025;250;2;500
+TIENDA04;Sucursal Oeste;10014;Refrigerador;123456555;Carlos Gomez;30/10/2024;1200;1;1200
+TIENDA05;Sucursal Este;10018;Colchón;123456444;Ana Lopez;08/12/2024;310;1;310
+TIENDA06;Sucursal Central;10014;Refrigerador;123456222;Maria Garcia;21/01/2024;1200;4;4800
+TIENDA07;Sucursal Chiriquí;10020;Impresora;123456777;Pedro Sanchez;03/05/2024;600;2;1200
+TIENDA07;Sucursal Chiriquí;10004;Lavadora;123456999;Ricardo Rivera;19/11/2024;2400;4;9600
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456666;Luisa Fernandez;07/01/2025;700;1;700
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456333;Jorge Mateus;23/02/2025;250;1;250
+TIENDA06;Sucursal Central;10002;Tablet;123456222;Maria Garcia;05/10/2025;1000;1;1000
+TIENDA02;Sucursal Norte;10013;Estufa;123456999;Ricardo Rivera;17/04/2024;600;1;600
+TIENDA02;Sucursal Norte;10016;Armario;123456777;Pedro Sanchez;07/11/2024;1500;1;1500
+TIENDA01;Matriz;10012;Procesador de alimentos;123456000;Sofia Torres;24/03/2024;180;4;720
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456666;Luisa Fernandez;20/06/2024;240;3;720
+TIENDA05;Sucursal Este;10018;Colchón;123456000;Sofia Torres;27/04/2024;310;4;1240
+TIENDA05;Sucursal Este;10011;Licuadora;123456666;Luisa Fernandez;10/01/2024;80;3;240
+TIENDA02;Sucursal Norte;10012;Procesador de alimentos;123456999;Ricardo Rivera;20/12/2025;180;4;720
+TIENDA01;Matriz;10005;Laptop;123456000;Sofia Torres;25/10/2025;3000;1;3000
+TIENDA03;Sucursal Sur;10008;Cafetera;123456444;Ana Lopez;25/05/2024;240;2;480
+TIENDA03;Sucursal Sur;10012;Procesador de alimentos;123456444;Ana Lopez;29/08/2024;180;2;360
+TIENDA05;Sucursal Este;10003;Televisor;123456111;Jose Martinez;03/11/2025;3500;3;10500
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456555;Carlos Gomez;16/10/2025;1800;1;1800
+TIENDA03;Sucursal Sur;10013;Estufa;123456777;Pedro Sanchez;12/08/2025;600;1;600
+TIENDA05;Sucursal Este;10002;Tablet;123456999;Ricardo Rivera;19/09/2024;1000;1;1000
+TIENDA05;Sucursal Este;10003;Televisor;123456222;Maria Garcia;28/09/2025;3500;1;3500
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456999;Ricardo Rivera;06/10/2024;1800;1;1800
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456333;Jorge Mateus;07/07/2025;2400;2;4800
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456444;Ana Lopez;06/11/2025;250;2;500
+TIENDA03;Sucursal Sur;10010;Freidor elétrico;123456999;Ricardo Rivera;10/03/2024;250;1;250
+TIENDA01;Matriz;10004;Lavadora;123456777;Pedro Sanchez;03/10/2025;2400;1;2400
+TIENDA04;Sucursal Oeste;10014;Refrigerador;123456555;Carlos Gomez;28/05/2024;1200;1;1200
+TIENDA06;Sucursal Central;10022;Monitor Gaming;123456888;Elena Morales;15/01/2025;450;2;900
+TIENDA02;Sucursal Norte;10007;Mezclador;123456333;Jorge Mateus;20/06/2024;200;1;200
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456666;Luisa Fernandez;15/04/2025;1800;5;9000
+TIENDA06;Sucursal Central;10010;Freidor elétrico;123456444;Ana Lopez;17/03/2025;250;2;500
+TIENDA04;Sucursal Oeste;10016;Armario;123456555;Carlos Gomez;29/10/2024;1500;2;3000
+TIENDA01;Matriz;10020;Impresora;123456777;Pedro Sanchez;31/10/2025;600;1;600
+TIENDA01;Matriz;10020;Impresora;123456777;Pedro Sanchez;03/02/2025;600;1;600
+TIENDA04;Sucursal Oeste;10024;Equipo de Sonido;123456888;Elena Morales;25/06/2025;850;2;1700
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456777;Pedro Sanchez;31/05/2025;700;1;700
+TIENDA04;Sucursal Oeste;10014;Refrigerador;123456888;Elena Morales;12/10/2024;1200;1;1200
+TIENDA05;Sucursal Este;10007;Mezclador;123456444;Ana Lopez;31/03/2025;200;1;200
+TIENDA07;Sucursal Chiriquí;10020;Impresora;123456111;Jose Martinez;14/05/2025;600;2;1200
+TIENDA02;Sucursal Norte;10001;Smartphone;123456444;Ana Lopez;31/07/2025;1500;1;1500
+TIENDA01;Matriz;10002;Tablet;123456555;Carlos Gomez;24/03/2025;1000;4;4000
+TIENDA03;Sucursal Sur;10024;Equipo de Sonido;123456333;Jorge Mateus;27/10/2025;850;1;850
+TIENDA04;Sucursal Oeste;10007;Mezclador;123456222;Maria Garcia;22/05/2024;200;4;800
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456555;Carlos Gomez;26/08/2024;850;1;850
+TIENDA01;Matriz;10007;Mezclador;123456000;Sofia Torres;06/06/2024;200;3;600
+TIENDA02;Sucursal Norte;10003;Televisor;123456666;Luisa Fernandez;09/06/2025;3500;3;10500
+TIENDA01;Matriz;10003;Televisor;123456555;Carlos Gomez;09/05/2024;3500;1;3500
+TIENDA03;Sucursal Sur;10017;Cama;123456222;Maria Garcia;22/09/2024;2800;5;14000
+TIENDA01;Matriz;10001;Smartphone;123456222;Maria Garcia;19/04/2024;1500;4;6000
+TIENDA06;Sucursal Central;10003;Televisor;123456444;Ana Lopez;25/01/2024;3500;4;14000
+TIENDA05;Sucursal Este;10002;Tablet;123456555;Carlos Gomez;20/06/2025;1000;1;1000
+TIENDA07;Sucursal Chiriquí;10016;Armario;123456444;Ana Lopez;07/05/2024;1500;2;3000
+TIENDA04;Sucursal Oeste;10022;Monitor Gaming;123456444;Ana Lopez;22/03/2025;450;1;450
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456222;Maria Garcia;31/05/2025;700;1;700
+TIENDA03;Sucursal Sur;10012;Procesador de alimentos;123456222;Maria Garcia;16/01/2025;180;1;180
+TIENDA03;Sucursal Sur;10018;Colchón;123456222;Maria Garcia;23/03/2024;310;5;1550
+TIENDA01;Matriz;10011;Licuadora;123456333;Jorge Mateus;08/05/2025;80;3;240
+TIENDA03;Sucursal Sur;10020;Impresora;123456777;Pedro Sanchez;31/08/2025;600;2;1200
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456444;Ana Lopez;10/04/2024;240;1;240
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456444;Ana Lopez;25/02/2025;850;2;1700
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456222;Maria Garcia;27/07/2025;3000;3;9000
+TIENDA05;Sucursal Este;10008;Cafetera;123456333;Jorge Mateus;09/06/2025;240;2;480
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456555;Carlos Gomez;20/01/2025;3000;1;3000
+TIENDA06;Sucursal Central;10007;Mezclador;123456555;Carlos Gomez;11/10/2025;200;1;200
+TIENDA07;Sucursal Chiriquí;10008;Cafetera;123456000;Sofia Torres;13/01/2024;240;2;480
+TIENDA05;Sucursal Este;10022;Monitor Gaming;123456000;Sofia Torres;23/11/2025;450;2;900
+TIENDA02;Sucursal Norte;10016;Armario;123456555;Carlos Gomez;09/04/2025;1500;1;1500
+TIENDA03;Sucursal Sur;10013;Estufa;123456111;Jose Martinez;03/11/2024;600;2;1200
+TIENDA07;Sucursal Chiriquí;10004;Lavadora;123456555;Carlos Gomez;15/09/2025;2400;3;7200
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456222;Maria Garcia;11/03/2025;250;3;750
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456666;Luisa Fernandez;31/01/2025;180;3;540
+TIENDA01;Matriz;10021;Aire Acondicionado;123456999;Ricardo Rivera;28/02/2025;1800;2;3600
+TIENDA01;Matriz;10020;Impresora;123456222;Maria Garcia;10/01/2024;600;1;600
+TIENDA02;Sucursal Norte;10010;Freidor elétrico;123456000;Sofia Torres;15/12/2025;250;2;500
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456222;Maria Garcia;18/07/2024;250;3;750
+TIENDA01;Matriz;10016;Armario;123456111;Jose Martinez;19/02/2025;1500;1;1500
+TIENDA04;Sucursal Oeste;10005;Laptop;123456111;Jose Martinez;18/07/2024;3000;1;3000
+TIENDA01;Matriz;10013;Estufa;123456777;Pedro Sanchez;10/03/2025;600;2;1200
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456888;Elena Morales;03/10/2024;1800;4;7200
+TIENDA02;Sucursal Norte;10013;Estufa;123456444;Ana Lopez;29/07/2024;600;5;3000
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456333;Jorge Mateus;17/09/2024;700;1;700
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456666;Luisa Fernandez;03/07/2025;250;1;250
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456111;Jose Martinez;24/11/2024;250;3;750
+TIENDA02;Sucursal Norte;10003;Televisor;123456222;Maria Garcia;16/01/2025;3500;1;3500
+TIENDA04;Sucursal Oeste;10011;Licuadora;123456999;Ricardo Rivera;28/04/2024;80;4;320
+TIENDA06;Sucursal Central;10012;Procesador de alimentos;123456222;Maria Garcia;13/10/2025;180;3;540
+TIENDA03;Sucursal Sur;10002;Tablet;123456888;Elena Morales;23/11/2025;1000;2;2000
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456222;Maria Garcia;29/09/2024;600;1;600
+TIENDA02;Sucursal Norte;10011;Licuadora;123456777;Pedro Sanchez;03/05/2024;80;1;80
+TIENDA02;Sucursal Norte;10022;Monitor Gaming;123456999;Ricardo Rivera;17/02/2025;450;4;1800
+TIENDA04;Sucursal Oeste;10014;Refrigerador;123456555;Carlos Gomez;16/11/2025;1200;1;1200
+TIENDA01;Matriz;10003;Televisor;123456888;Elena Morales;09/08/2024;3500;2;7000
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456777;Pedro Sanchez;13/06/2025;1800;1;1800
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456555;Carlos Gomez;25/08/2024;250;2;500
+TIENDA07;Sucursal Chiriquí;10014;Refrigerador;123456777;Pedro Sanchez;12/09/2024;1200;1;1200
+TIENDA06;Sucursal Central;10013;Estufa;123456666;Luisa Fernandez;10/04/2025;600;1;600
+TIENDA02;Sucursal Norte;10018;Colchón;123456555;Carlos Gomez;15/07/2025;310;1;310
+TIENDA07;Sucursal Chiriquí;10014;Refrigerador;123456333;Jorge Mateus;13/11/2025;1200;2;2400
+TIENDA05;Sucursal Este;10003;Televisor;123456111;Jose Martinez;19/01/2024;3500;1;3500
+TIENDA07;Sucursal Chiriquí;10014;Refrigerador;123456777;Pedro Sanchez;07/05/2024;1200;2;2400
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456888;Elena Morales;06/08/2025;180;2;360
+TIENDA01;Matriz;10003;Televisor;123456555;Carlos Gomez;13/04/2024;3500;5;17500
+TIENDA03;Sucursal Sur;10002;Tablet;123456000;Sofia Torres;10/01/2024;1000;1;1000
+TIENDA05;Sucursal Este;10002;Tablet;123456777;Pedro Sanchez;13/01/2024;1000;1;1000
+TIENDA01;Matriz;10004;Lavadora;123456444;Ana Lopez;24/08/2025;2400;1;2400
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456666;Luisa Fernandez;14/01/2024;1200;2;2400
+TIENDA01;Matriz;10024;Equipo de Sonido;123456222;Maria Garcia;10/03/2024;850;1;850
+TIENDA03;Sucursal Sur;10004;Lavadora;123456555;Carlos Gomez;11/05/2024;2400;1;2400
+TIENDA04;Sucursal Oeste;10003;Televisor;123456000;Sofia Torres;13/04/2025;3500;1;3500
+TIENDA06;Sucursal Central;10008;Cafetera;123456888;Elena Morales;07/02/2024;240;1;240
+TIENDA06;Sucursal Central;10016;Armario;123456444;Ana Lopez;28/04/2024;1500;1;1500
+TIENDA07;Sucursal Chiriquí;10017;Cama;123456444;Ana Lopez;01/12/2024;2800;2;5600
+TIENDA02;Sucursal Norte;10024;Equipo de Sonido;123456777;Pedro Sanchez;19/06/2025;850;2;1700
+TIENDA02;Sucursal Norte;10023;Consola de Videojuegos;123456222;Maria Garcia;29/02/2024;700;1;700
+TIENDA03;Sucursal Sur;10017;Cama;123456111;Jose Martinez;25/10/2025;2800;1;2800
+TIENDA05;Sucursal Este;10007;Mezclador;123456000;Sofia Torres;04/12/2025;200;1;200
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456444;Ana Lopez;25/05/2024;1800;1;1800
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456444;Ana Lopez;29/10/2024;1800;2;3600
+TIENDA03;Sucursal Sur;10016;Armario;123456999;Ricardo Rivera;16/07/2024;1500;1;1500
+TIENDA04;Sucursal Oeste;10020;Impresora;123456444;Ana Lopez;02/02/2025;600;1;600
+TIENDA06;Sucursal Central;10011;Licuadora;123456777;Pedro Sanchez;19/05/2025;80;4;320
+TIENDA04;Sucursal Oeste;10022;Monitor Gaming;123456000;Sofia Torres;10/09/2025;450;1;450
+TIENDA01;Matriz;10016;Armario;123456666;Luisa Fernandez;16/07/2025;1500;2;3000
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456333;Jorge Mateus;03/08/2025;180;3;540
+TIENDA05;Sucursal Este;10024;Equipo de Sonido;123456555;Carlos Gomez;14/03/2024;850;3;2550
+TIENDA05;Sucursal Este;10007;Mezclador;123456444;Ana Lopez;29/09/2025;200;2;400
+TIENDA07;Sucursal Chiriquí;10022;Monitor Gaming;123456777;Pedro Sanchez;08/11/2024;450;4;1800
+TIENDA04;Sucursal Oeste;10011;Licuadora;123456666;Luisa Fernandez;29/12/2024;80;1;80
+TIENDA04;Sucursal Oeste;10024;Equipo de Sonido;123456999;Ricardo Rivera;01/07/2025;850;2;1700
+TIENDA05;Sucursal Este;10014;Refrigerador;123456888;Elena Morales;07/12/2024;1200;1;1200
+TIENDA04;Sucursal Oeste;10003;Televisor;123456777;Pedro Sanchez;26/09/2024;3500;1;3500
+TIENDA02;Sucursal Norte;10012;Procesador de alimentos;123456666;Luisa Fernandez;04/08/2025;180;3;540
+TIENDA04;Sucursal Oeste;10016;Armario;123456999;Ricardo Rivera;10/09/2025;1500;3;4500
+TIENDA04;Sucursal Oeste;10013;Estufa;123456222;Maria Garcia;14/07/2024;600;1;600
+TIENDA02;Sucursal Norte;10008;Cafetera;123456111;Jose Martinez;02/02/2025;240;1;240
+TIENDA02;Sucursal Norte;10013;Estufa;123456888;Elena Morales;16/10/2025;600;4;2400
+TIENDA07;Sucursal Chiriquí;10012;Procesador de alimentos;123456555;Carlos Gomez;21/05/2024;180;3;540
+TIENDA01;Matriz;10022;Monitor Gaming;123456555;Carlos Gomez;21/08/2025;450;1;450
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456555;Carlos Gomez;18/01/2025;1800;2;3600
+TIENDA04;Sucursal Oeste;10011;Licuadora;123456999;Ricardo Rivera;20/09/2025;80;1;80
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456000;Sofia Torres;15/10/2024;240;2;480
+TIENDA01;Matriz;10002;Tablet;123456888;Elena Morales;12/02/2024;1000;1;1000
+TIENDA01;Matriz;10021;Aire Acondicionado;123456777;Pedro Sanchez;08/05/2025;1800;2;3600
+TIENDA06;Sucursal Central;10001;Smartphone;123456222;Maria Garcia;31/05/2025;1500;1;1500
+TIENDA02;Sucursal Norte;10020;Impresora;123456666;Luisa Fernandez;07/04/2024;600;1;600
+TIENDA03;Sucursal Sur;10014;Refrigerador;123456777;Pedro Sanchez;20/10/2024;1200;1;1200
+TIENDA04;Sucursal Oeste;10003;Televisor;123456000;Sofia Torres;14/07/2025;3500;1;3500
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456555;Carlos Gomez;08/03/2024;850;2;1700
+TIENDA06;Sucursal Central;10018;Colchón;123456444;Ana Lopez;31/07/2024;310;1;310
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456666;Luisa Fernandez;15/01/2025;850;3;2550
+TIENDA01;Matriz;10021;Aire Acondicionado;123456888;Elena Morales;10/09/2024;1800;1;1800
+TIENDA03;Sucursal Sur;10014;Refrigerador;123456888;Elena Morales;14/08/2024;1200;2;2400
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456777;Pedro Sanchez;13/01/2025;850;2;1700
+TIENDA02;Sucursal Norte;10005;Laptop;123456333;Jorge Mateus;18/05/2025;3000;4;12000
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456000;Sofia Torres;20/04/2025;250;1;250
+TIENDA01;Matriz;10005;Laptop;123456444;Ana Lopez;20/07/2025;3000;2;6000
+TIENDA01;Matriz;10022;Monitor Gaming;123456888;Elena Morales;12/04/2025;450;1;450
+TIENDA06;Sucursal Central;10008;Cafetera;123456222;Maria Garcia;15/09/2024;240;2;480
+TIENDA03;Sucursal Sur;10013;Estufa;123456222;Maria Garcia;07/08/2024;600;5;3000
+TIENDA01;Matriz;10010;Freidor elétrico;123456777;Pedro Sanchez;18/11/2025;250;3;750
+TIENDA03;Sucursal Sur;10004;Lavadora;123456555;Carlos Gomez;31/12/2024;2400;3;7200
+TIENDA06;Sucursal Central;10011;Licuadora;123456333;Jorge Mateus;16/01/2024;80;3;240
+TIENDA01;Matriz;10016;Armario;123456777;Pedro Sanchez;11/04/2024;1500;1;1500
+TIENDA02;Sucursal Norte;10005;Laptop;123456777;Pedro Sanchez;18/12/2024;3000;2;6000
+TIENDA04;Sucursal Oeste;10024;Equipo de Sonido;123456999;Ricardo Rivera;16/01/2025;850;3;2550
+TIENDA06;Sucursal Central;10003;Televisor;123456555;Carlos Gomez;21/04/2025;3500;1;3500
+TIENDA01;Matriz;10007;Mezclador;123456444;Ana Lopez;29/07/2024;200;2;400
+TIENDA04;Sucursal Oeste;10013;Estufa;123456999;Ricardo Rivera;29/12/2024;600;4;2400
+TIENDA04;Sucursal Oeste;10002;Tablet;123456999;Ricardo Rivera;10/08/2025;1000;3;3000
+TIENDA04;Sucursal Oeste;10020;Impresora;123456000;Sofia Torres;05/08/2024;600;2;1200
+TIENDA06;Sucursal Central;10003;Televisor;123456111;Jose Martinez;10/02/2024;3500;1;3500
+TIENDA03;Sucursal Sur;10013;Estufa;123456222;Maria Garcia;24/06/2024;600;2;1200
+TIENDA06;Sucursal Central;10005;Laptop;123456111;Jose Martinez;15/10/2024;3000;3;9000
+TIENDA04;Sucursal Oeste;10002;Tablet;123456222;Maria Garcia;04/09/2024;1000;1;1000
+TIENDA04;Sucursal Oeste;10007;Mezclador;123456777;Pedro Sanchez;03/05/2024;200;3;600
+TIENDA01;Matriz;10003;Televisor;123456888;Elena Morales;22/05/2024;3500;2;7000
+TIENDA07;Sucursal Chiriquí;10003;Televisor;123456555;Carlos Gomez;28/10/2024;3500;3;10500
+TIENDA04;Sucursal Oeste;10014;Refrigerador;123456444;Ana Lopez;27/01/2025;1200;1;1200
+TIENDA03;Sucursal Sur;10023;Consola de Videojuegos;123456222;Maria Garcia;07/09/2024;700;4;2800
+TIENDA03;Sucursal Sur;10002;Tablet;123456777;Pedro Sanchez;03/07/2025;1000;1;1000
+TIENDA06;Sucursal Central;10010;Freidor elétrico;123456444;Ana Lopez;20/10/2025;250;1;250
+TIENDA06;Sucursal Central;10021;Aire Acondicionado;123456444;Ana Lopez;26/09/2024;1800;1;1800
+TIENDA02;Sucursal Norte;10020;Impresora;123456666;Luisa Fernandez;13/09/2025;600;2;1200
+TIENDA03;Sucursal Sur;10012;Procesador de alimentos;123456333;Jorge Mateus;10/10/2024;180;2;360
+TIENDA04;Sucursal Oeste;10017;Cama;123456777;Pedro Sanchez;27/09/2025;2800;2;5600
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456999;Ricardo Rivera;01/02/2025;700;3;2100
+TIENDA06;Sucursal Central;10004;Lavadora;123456555;Carlos Gomez;12/10/2024;2400;1;2400
+TIENDA01;Matriz;10024;Equipo de Sonido;123456111;Jose Martinez;21/07/2024;850;1;850
+TIENDA05;Sucursal Este;10011;Licuadora;123456333;Jorge Mateus;09/08/2024;80;1;80
+TIENDA01;Matriz;10004;Lavadora;123456444;Ana Lopez;28/05/2025;2400;3;7200
+TIENDA01;Matriz;10011;Licuadora;123456666;Luisa Fernandez;11/09/2024;80;5;400
+TIENDA07;Sucursal Chiriquí;10020;Impresora;123456111;Jose Martinez;04/02/2024;600;1;600
+TIENDA03;Sucursal Sur;10005;Laptop;123456222;Maria Garcia;14/11/2025;3000;1;3000
+TIENDA01;Matriz;10011;Licuadora;123456555;Carlos Gomez;19/11/2024;80;4;320
+TIENDA03;Sucursal Sur;10002;Tablet;123456111;Jose Martinez;05/03/2024;1000;3;3000
+TIENDA05;Sucursal Este;10018;Colchón;123456777;Pedro Sanchez;13/03/2025;310;1;310
+TIENDA04;Sucursal Oeste;10023;Consola de Videojuegos;123456999;Ricardo Rivera;27/08/2025;700;3;2100
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456888;Elena Morales;19/05/2025;700;1;700
+TIENDA05;Sucursal Este;10004;Lavadora;123456333;Jorge Mateus;13/12/2024;2400;2;4800
+TIENDA04;Sucursal Oeste;10014;Refrigerador;123456444;Ana Lopez;06/05/2025;1200;2;2400
+TIENDA02;Sucursal Norte;10002;Tablet;123456888;Elena Morales;26/12/2024;1000;2;2000
+TIENDA01;Matriz;10007;Mezclador;123456888;Elena Morales;26/10/2025;200;1;200
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456111;Jose Martinez;09/10/2024;1200;2;2400
+TIENDA03;Sucursal Sur;10001;Smartphone;123456000;Sofia Torres;12/09/2025;1500;2;3000
+TIENDA01;Matriz;10010;Freidor elétrico;123456333;Jorge Mateus;07/03/2025;250;2;500
+TIENDA05;Sucursal Este;10021;Aire Acondicionado;123456444;Ana Lopez;18/02/2024;1800;2;3600
+TIENDA06;Sucursal Central;10010;Freidor elétrico;123456111;Jose Martinez;24/08/2025;250;1;250
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456555;Carlos Gomez;09/09/2025;1800;1;1800
+TIENDA03;Sucursal Sur;10011;Licuadora;123456666;Luisa Fernandez;02/07/2025;80;1;80
+TIENDA01;Matriz;10021;Aire Acondicionado;123456999;Ricardo Rivera;24/07/2025;1800;1;1800
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456777;Pedro Sanchez;04/12/2025;80;1;80
+TIENDA03;Sucursal Sur;10013;Estufa;123456333;Jorge Mateus;11/07/2025;600;1;600
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456111;Jose Martinez;27/11/2024;250;1;250
+TIENDA05;Sucursal Este;10016;Armario;123456555;Carlos Gomez;27/08/2024;1500;2;3000
+TIENDA01;Matriz;10008;Cafetera;123456000;Sofia Torres;28/03/2025;240;4;960
+TIENDA01;Matriz;10016;Armario;123456777;Pedro Sanchez;19/11/2025;1500;3;4500
+TIENDA07;Sucursal Chiriquí;10022;Monitor Gaming;123456444;Ana Lopez;19/11/2024;450;1;450
+TIENDA06;Sucursal Central;10004;Lavadora;123456111;Jose Martinez;20/10/2025;2400;1;2400
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456888;Elena Morales;27/11/2024;850;4;3400
+TIENDA02;Sucursal Norte;10018;Colchón;123456333;Jorge Mateus;14/04/2024;310;2;620
+TIENDA02;Sucursal Norte;10023;Consola de Videojuegos;123456222;Maria Garcia;22/09/2024;700;2;1400
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456222;Maria Garcia;11/01/2025;700;4;2800
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456333;Jorge Mateus;20/09/2025;850;2;1700
+TIENDA02;Sucursal Norte;10003;Televisor;123456666;Luisa Fernandez;22/10/2024;3500;2;7000
+TIENDA02;Sucursal Norte;10011;Licuadora;123456111;Jose Martinez;22/02/2025;80;1;80
+TIENDA03;Sucursal Sur;10016;Armario;123456111;Jose Martinez;22/12/2024;1500;1;1500
+TIENDA05;Sucursal Este;10007;Mezclador;123456111;Jose Martinez;13/03/2025;200;3;600
+TIENDA03;Sucursal Sur;10004;Lavadora;123456222;Maria Garcia;09/01/2025;2400;2;4800
+TIENDA01;Matriz;10007;Mezclador;123456555;Carlos Gomez;06/07/2024;200;3;600
+TIENDA04;Sucursal Oeste;10003;Televisor;123456222;Maria Garcia;20/06/2024;3500;2;7000
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456999;Ricardo Rivera;02/11/2025;250;3;750
+TIENDA02;Sucursal Norte;10004;Lavadora;123456999;Ricardo Rivera;09/11/2025;2400;1;2400
+TIENDA02;Sucursal Norte;10005;Laptop;123456888;Elena Morales;24/02/2025;3000;2;6000
+TIENDA01;Matriz;10018;Colchón;123456111;Jose Martinez;30/10/2025;310;1;310
+TIENDA02;Sucursal Norte;10003;Televisor;123456222;Maria Garcia;23/04/2025;3500;1;3500
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456111;Jose Martinez;20/11/2024;1800;2;3600
+TIENDA02;Sucursal Norte;10014;Refrigerador;123456444;Ana Lopez;31/01/2024;1200;2;2400
+TIENDA04;Sucursal Oeste;10016;Armario;123456111;Jose Martinez;10/01/2025;1500;5;7500
+TIENDA03;Sucursal Sur;10013;Estufa;123456333;Jorge Mateus;27/10/2025;600;1;600
+TIENDA03;Sucursal Sur;10013;Estufa;123456666;Luisa Fernandez;21/08/2024;600;1;600
+TIENDA03;Sucursal Sur;10007;Mezclador;123456222;Maria Garcia;01/09/2024;200;3;600
+TIENDA06;Sucursal Central;10005;Laptop;123456000;Sofia Torres;02/07/2025;3000;3;9000
+TIENDA02;Sucursal Norte;10003;Televisor;123456555;Carlos Gomez;08/12/2025;3500;3;10500
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456999;Ricardo Rivera;28/02/2024;1800;1;1800
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456444;Ana Lopez;04/10/2024;1800;1;1800
+TIENDA04;Sucursal Oeste;10005;Laptop;123456555;Carlos Gomez;04/11/2025;3000;2;6000
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456666;Luisa Fernandez;19/12/2024;700;1;700
+TIENDA05;Sucursal Este;10021;Aire Acondicionado;123456333;Jorge Mateus;17/01/2025;1800;2;3600
+TIENDA04;Sucursal Oeste;10014;Refrigerador;123456555;Carlos Gomez;13/05/2025;1200;3;3600
+TIENDA01;Matriz;10003;Televisor;123456888;Elena Morales;18/05/2024;3500;1;3500
+TIENDA04;Sucursal Oeste;10021;Aire Acondicionado;123456333;Jorge Mateus;13/04/2024;1800;2;3600
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456999;Ricardo Rivera;03/06/2025;700;1;700
+TIENDA04;Sucursal Oeste;10021;Aire Acondicionado;123456555;Carlos Gomez;20/10/2025;1800;2;3600
+TIENDA07;Sucursal Chiriquí;10002;Tablet;123456555;Carlos Gomez;15/11/2025;1000;2;2000
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456666;Luisa Fernandez;31/05/2025;600;2;1200
+TIENDA01;Matriz;10024;Equipo de Sonido;123456888;Elena Morales;07/06/2025;850;2;1700
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456111;Jose Martinez;30/10/2024;700;2;1400
+TIENDA04;Sucursal Oeste;10007;Mezclador;123456444;Ana Lopez;15/08/2024;200;2;400
+TIENDA06;Sucursal Central;10018;Colchón;123456111;Jose Martinez;04/12/2025;310;2;620
+TIENDA01;Matriz;10022;Monitor Gaming;123456333;Jorge Mateus;22/03/2024;450;2;900
+TIENDA04;Sucursal Oeste;10018;Colchón;123456333;Jorge Mateus;30/12/2024;310;3;930
+TIENDA03;Sucursal Sur;10010;Freidor elétrico;123456999;Ricardo Rivera;02/12/2024;250;3;750
+TIENDA01;Matriz;10010;Freidor elétrico;123456111;Jose Martinez;18/11/2024;250;1;250
+TIENDA03;Sucursal Sur;10016;Armario;123456555;Carlos Gomez;01/12/2025;1500;5;7500
+TIENDA07;Sucursal Chiriquí;10020;Impresora;123456777;Pedro Sanchez;22/01/2024;600;3;1800
+TIENDA05;Sucursal Este;10013;Estufa;123456666;Luisa Fernandez;15/11/2024;600;3;1800
+TIENDA06;Sucursal Central;10020;Impresora;123456555;Carlos Gomez;11/11/2025;600;3;1800
+TIENDA03;Sucursal Sur;10018;Colchón;123456888;Elena Morales;04/01/2025;310;5;1550
+TIENDA02;Sucursal Norte;10010;Freidor elétrico;123456111;Jose Martinez;08/10/2025;250;1;250
+TIENDA03;Sucursal Sur;10004;Lavadora;123456111;Jose Martinez;01/01/2024;2400;3;7200
+TIENDA07;Sucursal Chiriquí;10016;Armario;123456555;Carlos Gomez;06/07/2024;1500;3;4500
+TIENDA01;Matriz;10004;Lavadora;123456111;Jose Martinez;03/12/2025;2400;2;4800
+TIENDA07;Sucursal Chiriquí;10002;Tablet;123456999;Ricardo Rivera;18/01/2025;1000;1;1000
+TIENDA04;Sucursal Oeste;10013;Estufa;123456666;Luisa Fernandez;06/07/2024;600;1;600
+TIENDA05;Sucursal Este;10016;Armario;123456222;Maria Garcia;02/05/2024;1500;4;6000
+TIENDA06;Sucursal Central;10010;Freidor elétrico;123456222;Maria Garcia;10/06/2024;250;1;250
+TIENDA02;Sucursal Norte;10002;Tablet;123456666;Luisa Fernandez;13/01/2024;1000;1;1000
+TIENDA07;Sucursal Chiriquí;10008;Cafetera;123456222;Maria Garcia;02/08/2024;240;1;240
+TIENDA06;Sucursal Central;10008;Cafetera;123456888;Elena Morales;16/11/2024;240;2;480
+TIENDA01;Matriz;10016;Armario;123456999;Ricardo Rivera;22/02/2024;1500;2;3000
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456999;Ricardo Rivera;27/06/2025;1800;2;3600
+TIENDA06;Sucursal Central;10012;Procesador de alimentos;123456000;Sofia Torres;19/07/2025;180;3;540
+TIENDA04;Sucursal Oeste;10022;Monitor Gaming;123456444;Ana Lopez;15/02/2025;450;1;450
+TIENDA06;Sucursal Central;10018;Colchón;123456444;Ana Lopez;03/12/2025;310;2;620
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456777;Pedro Sanchez;22/09/2025;250;1;250
+TIENDA07;Sucursal Chiriquí;10022;Monitor Gaming;123456222;Maria Garcia;30/09/2025;450;3;1350
+TIENDA03;Sucursal Sur;10014;Refrigerador;123456999;Ricardo Rivera;16/03/2025;1200;1;1200
+TIENDA07;Sucursal Chiriquí;10022;Monitor Gaming;123456111;Jose Martinez;20/10/2024;450;1;450
+TIENDA01;Matriz;10022;Monitor Gaming;123456777;Pedro Sanchez;24/01/2025;450;2;900
+TIENDA05;Sucursal Este;10013;Estufa;123456999;Ricardo Rivera;10/09/2025;600;3;1800
+TIENDA03;Sucursal Sur;10002;Tablet;123456999;Ricardo Rivera;03/09/2025;1000;1;1000
+TIENDA02;Sucursal Norte;10016;Armario;123456333;Jorge Mateus;16/07/2024;1500;1;1500
+TIENDA04;Sucursal Oeste;10005;Laptop;123456333;Jorge Mateus;15/04/2025;3000;1;3000
+TIENDA02;Sucursal Norte;10012;Procesador de alimentos;123456111;Jose Martinez;25/12/2025;180;1;180
+TIENDA05;Sucursal Este;10001;Smartphone;123456555;Carlos Gomez;06/06/2025;1500;1;1500
+TIENDA01;Matriz;10018;Colchón;123456444;Ana Lopez;13/12/2025;310;4;1240
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456444;Ana Lopez;19/10/2024;700;2;1400
+TIENDA02;Sucursal Norte;10005;Laptop;123456111;Jose Martinez;23/06/2025;3000;2;6000
+TIENDA01;Matriz;10018;Colchón;123456333;Jorge Mateus;14/08/2024;310;1;310
+TIENDA04;Sucursal Oeste;10008;Cafetera;123456999;Ricardo Rivera;28/07/2024;240;3;720
+TIENDA05;Sucursal Este;10002;Tablet;123456444;Ana Lopez;24/11/2024;1000;1;1000
+TIENDA06;Sucursal Central;10001;Smartphone;123456666;Luisa Fernandez;21/06/2024;1500;3;4500
+TIENDA05;Sucursal Este;10011;Licuadora;123456222;Maria Garcia;19/09/2024;80;1;80
+TIENDA04;Sucursal Oeste;10003;Televisor;123456222;Maria Garcia;28/05/2024;3500;1;3500
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456888;Elena Morales;08/09/2024;1500;3;4500
+TIENDA03;Sucursal Sur;10016;Armario;123456333;Jorge Mateus;27/04/2024;1500;1;1500
+TIENDA06;Sucursal Central;10014;Refrigerador;123456000;Sofia Torres;08/08/2025;1200;1;1200
+TIENDA06;Sucursal Central;10007;Mezclador;123456555;Carlos Gomez;01/02/2025;200;1;200
+TIENDA02;Sucursal Norte;10003;Televisor;123456333;Jorge Mateus;17/01/2024;3500;1;3500
+TIENDA04;Sucursal Oeste;10024;Equipo de Sonido;123456666;Luisa Fernandez;19/06/2024;850;1;850
+TIENDA01;Matriz;10007;Mezclador;123456444;Ana Lopez;28/04/2024;200;3;600
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456111;Jose Martinez;16/05/2025;250;1;250
+TIENDA05;Sucursal Este;10018;Colchón;123456000;Sofia Torres;04/11/2025;310;3;930
+TIENDA05;Sucursal Este;10008;Cafetera;123456666;Luisa Fernandez;15/05/2025;240;1;240
+TIENDA01;Matriz;10008;Cafetera;123456111;Jose Martinez;29/09/2025;240;1;240
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456555;Carlos Gomez;15/08/2024;2400;2;4800
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456333;Jorge Mateus;12/08/2024;80;2;160
+TIENDA07;Sucursal Chiriquí;10010;Freidor elétrico;123456999;Ricardo Rivera;28/02/2024;250;1;250
+TIENDA04;Sucursal Oeste;10003;Televisor;123456888;Elena Morales;05/06/2024;3500;2;7000
+TIENDA02;Sucursal Norte;10016;Armario;123456222;Maria Garcia;15/04/2025;1500;2;3000
+TIENDA04;Sucursal Oeste;10004;Lavadora;123456000;Sofia Torres;27/01/2025;2400;4;9600
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456555;Carlos Gomez;22/05/2024;850;2;1700
+TIENDA04;Sucursal Oeste;10011;Licuadora;123456666;Luisa Fernandez;30/03/2024;80;1;80
+TIENDA04;Sucursal Oeste;10012;Procesador de alimentos;123456777;Pedro Sanchez;25/01/2024;180;3;540
+TIENDA02;Sucursal Norte;10013;Estufa;123456333;Jorge Mateus;31/03/2025;600;5;3000
+TIENDA04;Sucursal Oeste;10021;Aire Acondicionado;123456111;Jose Martinez;11/04/2024;1800;4;7200
+TIENDA06;Sucursal Central;10018;Colchón;123456999;Ricardo Rivera;16/11/2025;310;1;310
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456000;Sofia Torres;18/08/2025;1800;4;7200
+TIENDA04;Sucursal Oeste;10013;Estufa;123456999;Ricardo Rivera;03/11/2025;600;1;600
+TIENDA02;Sucursal Norte;10002;Tablet;123456666;Luisa Fernandez;26/07/2025;1000;1;1000
+TIENDA02;Sucursal Norte;10017;Cama;123456555;Carlos Gomez;20/10/2024;2800;1;2800
+TIENDA06;Sucursal Central;10022;Monitor Gaming;123456666;Luisa Fernandez;28/10/2024;450;2;900
+TIENDA05;Sucursal Este;10007;Mezclador;123456333;Jorge Mateus;03/03/2025;200;1;200
+TIENDA05;Sucursal Este;10021;Aire Acondicionado;123456111;Jose Martinez;28/11/2024;1800;5;9000
+TIENDA02;Sucursal Norte;10011;Licuadora;123456666;Luisa Fernandez;08/09/2024;80;1;80
+TIENDA03;Sucursal Sur;10014;Refrigerador;123456000;Sofia Torres;23/08/2025;1200;1;1200
+TIENDA02;Sucursal Norte;10007;Mezclador;123456333;Jorge Mateus;02/06/2024;200;2;400
+TIENDA06;Sucursal Central;10014;Refrigerador;123456444;Ana Lopez;24/07/2025;1200;3;3600
+TIENDA05;Sucursal Este;10021;Aire Acondicionado;123456222;Maria Garcia;01/09/2024;1800;4;7200
+TIENDA02;Sucursal Norte;10010;Freidor elétrico;123456222;Maria Garcia;08/01/2024;250;1;250
+TIENDA06;Sucursal Central;10018;Colchón;123456444;Ana Lopez;02/03/2025;310;1;310
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456111;Jose Martinez;02/04/2024;850;2;1700
+TIENDA06;Sucursal Central;10005;Laptop;123456999;Ricardo Rivera;04/09/2025;3000;1;3000
+TIENDA04;Sucursal Oeste;10013;Estufa;123456000;Sofia Torres;18/06/2024;600;1;600
+TIENDA04;Sucursal Oeste;10002;Tablet;123456888;Elena Morales;25/08/2025;1000;2;2000
+TIENDA06;Sucursal Central;10003;Televisor;123456555;Carlos Gomez;21/06/2024;3500;3;10500
+TIENDA02;Sucursal Norte;10011;Licuadora;123456444;Ana Lopez;03/09/2024;80;1;80
+TIENDA03;Sucursal Sur;10023;Consola de Videojuegos;123456222;Maria Garcia;23/08/2025;700;2;1400
+TIENDA05;Sucursal Este;10021;Aire Acondicionado;123456777;Pedro Sanchez;07/02/2025;1800;2;3600
+TIENDA05;Sucursal Este;10003;Televisor;123456333;Jorge Mateus;25/08/2025;3500;4;14000
+TIENDA02;Sucursal Norte;10022;Monitor Gaming;123456111;Jose Martinez;23/11/2025;450;5;2250
+TIENDA03;Sucursal Sur;10004;Lavadora;123456222;Maria Garcia;27/02/2024;2400;3;7200
+TIENDA02;Sucursal Norte;10024;Equipo de Sonido;123456444;Ana Lopez;10/11/2024;850;1;850
+TIENDA03;Sucursal Sur;10011;Licuadora;123456999;Ricardo Rivera;11/07/2024;80;1;80
+TIENDA01;Matriz;10002;Tablet;123456666;Luisa Fernandez;02/08/2025;1000;2;2000
+TIENDA05;Sucursal Este;10023;Consola de Videojuegos;123456888;Elena Morales;10/08/2025;700;1;700
+TIENDA02;Sucursal Norte;10023;Consola de Videojuegos;123456333;Jorge Mateus;17/07/2024;700;1;700
+TIENDA07;Sucursal Chiriquí;10008;Cafetera;123456777;Pedro Sanchez;06/10/2025;240;3;720
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456444;Ana Lopez;19/09/2025;180;3;540
+TIENDA05;Sucursal Este;10011;Licuadora;123456888;Elena Morales;21/04/2024;80;1;80
+TIENDA07;Sucursal Chiriquí;10004;Lavadora;123456999;Ricardo Rivera;24/02/2025;2400;1;2400
+TIENDA01;Matriz;10018;Colchón;123456333;Jorge Mateus;09/02/2024;310;3;930
+TIENDA07;Sucursal Chiriquí;10002;Tablet;123456444;Ana Lopez;19/06/2025;1000;3;3000
+TIENDA02;Sucursal Norte;10003;Televisor;123456444;Ana Lopez;08/03/2025;3500;2;7000
+TIENDA07;Sucursal Chiriquí;10024;Equipo de Sonido;123456555;Carlos Gomez;03/08/2025;850;1;850
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456555;Carlos Gomez;30/11/2025;80;1;80
+TIENDA06;Sucursal Central;10005;Laptop;123456666;Luisa Fernandez;10/11/2025;3000;2;6000
+TIENDA07;Sucursal Chiriquí;10007;Mezclador;123456777;Pedro Sanchez;30/07/2024;200;1;200
+TIENDA03;Sucursal Sur;10018;Colchón;123456333;Jorge Mateus;07/02/2024;310;1;310
+TIENDA03;Sucursal Sur;10018;Colchón;123456444;Ana Lopez;08/12/2024;310;1;310
+TIENDA02;Sucursal Norte;10005;Laptop;123456222;Maria Garcia;14/02/2025;3000;2;6000
+TIENDA03;Sucursal Sur;10020;Impresora;123456999;Ricardo Rivera;04/07/2025;600;4;2400
+TIENDA06;Sucursal Central;10010;Freidor elétrico;123456555;Carlos Gomez;24/07/2025;250;2;500
+TIENDA07;Sucursal Chiriquí;10012;Procesador de alimentos;123456000;Sofia Torres;10/06/2024;180;1;180
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456999;Ricardo Rivera;10/01/2024;1800;4;7200
+TIENDA06;Sucursal Central;10021;Aire Acondicionado;123456999;Ricardo Rivera;11/03/2025;1800;2;3600
+TIENDA07;Sucursal Chiriquí;10005;Laptop;123456999;Ricardo Rivera;09/07/2024;3000;1;3000
+TIENDA01;Matriz;10004;Lavadora;123456333;Jorge Mateus;28/03/2024;2400;5;12000
+TIENDA02;Sucursal Norte;10018;Colchón;123456888;Elena Morales;16/07/2024;310;2;620
+TIENDA01;Matriz;10008;Cafetera;123456777;Pedro Sanchez;08/11/2024;240;3;720
+TIENDA01;Matriz;10011;Licuadora;123456222;Maria Garcia;20/05/2024;80;1;80
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456666;Luisa Fernandez;29/05/2025;850;5;4250
+TIENDA01;Matriz;10014;Refrigerador;123456111;Jose Martinez;18/04/2024;1200;2;2400
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456111;Jose Martinez;09/04/2024;1800;1;1800
+TIENDA04;Sucursal Oeste;10021;Aire Acondicionado;123456222;Maria Garcia;22/02/2025;1800;1;1800
+TIENDA06;Sucursal Central;10001;Smartphone;123456000;Sofia Torres;01/12/2025;1500;5;7500
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456444;Ana Lopez;16/06/2024;700;2;1400
+TIENDA03;Sucursal Sur;10001;Smartphone;123456555;Carlos Gomez;01/12/2024;1500;1;1500
+TIENDA06;Sucursal Central;10016;Armario;123456888;Elena Morales;27/04/2025;1500;4;6000
+TIENDA03;Sucursal Sur;10024;Equipo de Sonido;123456000;Sofia Torres;03/03/2025;850;2;1700
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456222;Maria Garcia;02/06/2025;700;2;1400
+TIENDA06;Sucursal Central;10003;Televisor;123456888;Elena Morales;17/08/2025;3500;3;10500
+TIENDA03;Sucursal Sur;10024;Equipo de Sonido;123456222;Maria Garcia;03/05/2024;850;2;1700
+TIENDA01;Matriz;10014;Refrigerador;123456111;Jose Martinez;26/11/2024;1200;1;1200
+TIENDA05;Sucursal Este;10007;Mezclador;123456111;Jose Martinez;22/07/2025;200;1;200
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456555;Carlos Gomez;03/05/2025;1500;1;1500
+TIENDA03;Sucursal Sur;10005;Laptop;123456666;Luisa Fernandez;12/07/2025;3000;1;3000
+TIENDA07;Sucursal Chiriquí;10001;Smartphone;123456444;Ana Lopez;24/11/2025;1500;2;3000
+TIENDA07;Sucursal Chiriquí;10017;Cama;123456777;Pedro Sanchez;07/05/2024;2800;3;8400
+TIENDA06;Sucursal Central;10024;Equipo de Sonido;123456888;Elena Morales;03/12/2024;850;1;850
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456000;Sofia Torres;05/08/2024;80;5;400
+TIENDA06;Sucursal Central;10021;Aire Acondicionado;123456000;Sofia Torres;23/07/2025;1800;1;1800
+TIENDA05;Sucursal Este;10005;Laptop;123456999;Ricardo Rivera;12/04/2025;3000;1;3000
+TIENDA01;Matriz;10021;Aire Acondicionado;123456111;Jose Martinez;21/01/2025;1800;1;1800
+TIENDA02;Sucursal Norte;10003;Televisor;123456222;Maria Garcia;27/09/2025;3500;1;3500
+TIENDA02;Sucursal Norte;10013;Estufa;123456666;Luisa Fernandez;06/08/2024;600;2;1200
+TIENDA05;Sucursal Este;10024;Equipo de Sonido;123456666;Luisa Fernandez;27/05/2024;850;1;850
+TIENDA04;Sucursal Oeste;10024;Equipo de Sonido;123456333;Jorge Mateus;17/02/2025;850;1;850
+TIENDA05;Sucursal Este;10003;Televisor;123456222;Maria Garcia;09/10/2024;3500;1;3500
+TIENDA02;Sucursal Norte;10001;Smartphone;123456999;Ricardo Rivera;21/11/2024;1500;2;3000
+TIENDA01;Matriz;10002;Tablet;123456444;Ana Lopez;05/03/2024;1000;3;3000
+TIENDA03;Sucursal Sur;10012;Procesador de alimentos;123456000;Sofia Torres;10/11/2024;180;2;360
+TIENDA06;Sucursal Central;10020;Impresora;123456333;Jorge Mateus;04/09/2024;600;1;600
+TIENDA06;Sucursal Central;10002;Tablet;123456444;Ana Lopez;10/10/2024;1000;1;1000
+TIENDA01;Matriz;10016;Armario;123456111;Jose Martinez;16/05/2024;1500;2;3000
+TIENDA04;Sucursal Oeste;10001;Smartphone;123456333;Jorge Mateus;13/03/2024;1500;1;1500
+TIENDA05;Sucursal Este;10007;Mezclador;123456000;Sofia Torres;18/10/2025;200;5;1000
+TIENDA02;Sucursal Norte;10022;Monitor Gaming;123456222;Maria Garcia;21/05/2025;450;1;450
+TIENDA05;Sucursal Este;10018;Colchón;123456999;Ricardo Rivera;27/08/2025;310;1;310
+TIENDA03;Sucursal Sur;10023;Consola de Videojuegos;123456999;Ricardo Rivera;12/02/2024;700;2;1400
+TIENDA01;Matriz;10012;Procesador de alimentos;123456999;Ricardo Rivera;07/05/2025;180;2;360
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456111;Jose Martinez;16/02/2024;310;2;620
+TIENDA07;Sucursal Chiriquí;10017;Cama;123456111;Jose Martinez;22/10/2024;2800;1;2800
+TIENDA03;Sucursal Sur;10003;Televisor;123456222;Maria Garcia;09/06/2024;3500;1;3500
+TIENDA03;Sucursal Sur;10020;Impresora;123456222;Maria Garcia;03/12/2024;600;1;600
+TIENDA06;Sucursal Central;10004;Lavadora;123456333;Jorge Mateus;11/08/2025;2400;4;9600
+TIENDA06;Sucursal Central;10012;Procesador de alimentos;123456333;Jorge Mateus;25/08/2025;180;2;360
+TIENDA06;Sucursal Central;10023;Consola de Videojuegos;123456888;Elena Morales;21/12/2025;700;3;2100
+TIENDA01;Matriz;10013;Estufa;123456666;Luisa Fernandez;03/01/2025;600;2;1200
+TIENDA04;Sucursal Oeste;10005;Laptop;123456111;Jose Martinez;21/07/2025;3000;2;6000
+TIENDA03;Sucursal Sur;10002;Tablet;123456555;Carlos Gomez;28/12/2024;1000;2;2000
+TIENDA03;Sucursal Sur;10010;Freidor elétrico;123456666;Luisa Fernandez;08/09/2024;250;1;250
+TIENDA03;Sucursal Sur;10018;Colchón;123456555;Carlos Gomez;03/03/2024;310;1;310
+TIENDA06;Sucursal Central;10016;Armario;123456000;Sofia Torres;12/09/2024;1500;1;1500
+TIENDA07;Sucursal Chiriquí;10004;Lavadora;123456666;Luisa Fernandez;08/05/2024;2400;1;2400
+TIENDA07;Sucursal Chiriquí;10017;Cama;123456333;Jorge Mateus;30/04/2024;2800;1;2800
+TIENDA01;Matriz;10007;Mezclador;123456666;Luisa Fernandez;06/10/2025;200;1;200
+TIENDA01;Matriz;10022;Monitor Gaming;123456000;Sofia Torres;12/09/2025;450;3;1350
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456444;Ana Lopez;09/03/2024;700;1;700
+TIENDA01;Matriz;10014;Refrigerador;123456444;Ana Lopez;07/11/2024;1200;1;1200
+TIENDA02;Sucursal Norte;10024;Equipo de Sonido;123456777;Pedro Sanchez;06/11/2024;850;3;2550
+TIENDA06;Sucursal Central;10005;Laptop;123456777;Pedro Sanchez;25/06/2024;3000;1;3000
+TIENDA02;Sucursal Norte;10008;Cafetera;123456000;Sofia Torres;31/07/2024;240;1;240
+TIENDA05;Sucursal Este;10007;Mezclador;123456999;Ricardo Rivera;30/06/2025;200;2;400
+TIENDA07;Sucursal Chiriquí;10011;Licuadora;123456666;Luisa Fernandez;01/03/2025;80;3;240
+TIENDA07;Sucursal Chiriquí;10014;Refrigerador;123456111;Jose Martinez;17/02/2025;1200;3;3600
+TIENDA01;Matriz;10011;Licuadora;123456666;Luisa Fernandez;07/11/2025;80;1;80
+TIENDA07;Sucursal Chiriquí;10018;Colchón;123456444;Ana Lopez;14/02/2024;310;2;620
+TIENDA01;Matriz;10010;Freidor elétrico;123456777;Pedro Sanchez;29/04/2025;250;3;750
+TIENDA06;Sucursal Central;10001;Smartphone;123456222;Maria Garcia;29/09/2025;1500;1;1500
+TIENDA03;Sucursal Sur;10023;Consola de Videojuegos;123456000;Sofia Torres;11/10/2025;700;1;700
+TIENDA07;Sucursal Chiriquí;10004;Lavadora;123456333;Jorge Mateus;21/08/2024;2400;1;2400
+TIENDA04;Sucursal Oeste;10018;Colchón;123456777;Pedro Sanchez;26/05/2024;310;1;310
+TIENDA06;Sucursal Central;10010;Freidor elétrico;123456888;Elena Morales;16/05/2024;250;5;1250
+TIENDA07;Sucursal Chiriquí;10001;Smartphone;123456111;Jose Martinez;25/11/2024;1500;2;3000
+TIENDA07;Sucursal Chiriquí;10001;Smartphone;123456000;Sofia Torres;19/12/2024;1500;1;1500
+TIENDA03;Sucursal Sur;10001;Smartphone;123456666;Luisa Fernandez;26/08/2024;1500;2;3000
+TIENDA05;Sucursal Este;10008;Cafetera;123456111;Jose Martinez;08/10/2024;240;1;240
+TIENDA01;Matriz;10016;Armario;123456777;Pedro Sanchez;31/10/2024;1500;1;1500
+TIENDA03;Sucursal Sur;10021;Aire Acondicionado;123456777;Pedro Sanchez;11/07/2024;1800;4;7200
+TIENDA01;Matriz;10013;Estufa;123456111;Jose Martinez;21/01/2025;600;1;600
+TIENDA07;Sucursal Chiriquí;10013;Estufa;123456555;Carlos Gomez;14/01/2025;600;2;1200
+TIENDA01;Matriz;10011;Licuadora;123456666;Luisa Fernandez;02/04/2024;80;2;160
+TIENDA01;Matriz;10020;Impresora;123456666;Luisa Fernandez;29/12/2024;600;1;600
+TIENDA03;Sucursal Sur;10011;Licuadora;123456666;Luisa Fernandez;16/02/2025;80;2;160
+TIENDA03;Sucursal Sur;10002;Tablet;123456333;Jorge Mateus;18/05/2024;1000;1;1000
+TIENDA05;Sucursal Este;10010;Freidor elétrico;123456999;Ricardo Rivera;18/01/2025;250;1;250
+TIENDA02;Sucursal Norte;10007;Mezclador;123456888;Elena Morales;03/07/2024;200;1;200
+TIENDA04;Sucursal Oeste;10021;Aire Acondicionado;123456444;Ana Lopez;28/11/2024;1800;1;1800
+TIENDA05;Sucursal Este;10018;Colchón;123456666;Luisa Fernandez;08/08/2024;310;1;310
+TIENDA03;Sucursal Sur;10003;Televisor;123456000;Sofia Torres;24/11/2025;3500;1;3500
+TIENDA06;Sucursal Central;10004;Lavadora;123456888;Elena Morales;01/05/2024;2400;2;4800
+TIENDA07;Sucursal Chiriquí;10021;Aire Acondicionado;123456222;Maria Garcia;01/11/2025;1800;1;1800
+TIENDA04;Sucursal Oeste;10018;Colchón;123456222;Maria Garcia;15/05/2024;310;1;310
+TIENDA01;Matriz;10005;Laptop;123456000;Sofia Torres;24/04/2025;3000;2;6000
+TIENDA02;Sucursal Norte;10021;Aire Acondicionado;123456444;Ana Lopez;29/07/2024;1800;1;1800
+TIENDA04;Sucursal Oeste;10011;Licuadora;123456777;Pedro Sanchez;17/03/2025;80;1;80
+TIENDA01;Matriz;10003;Televisor;123456777;Pedro Sanchez;04/05/2025;3500;1;3500
+TIENDA05;Sucursal Este;10012;Procesador de alimentos;123456555;Carlos Gomez;20/03/2025;180;1;180
+TIENDA05;Sucursal Este;10020;Impresora;123456666;Luisa Fernandez;28/02/2024;600;1;600
+TIENDA01;Matriz;10016;Armario;123456888;Elena Morales;28/08/2025;1500;1;1500
+TIENDA06;Sucursal Central;10014;Refrigerador;123456000;Sofia Torres;01/12/2024;1200;2;2400
+TIENDA01;Matriz;10002;Tablet;123456000;Sofia Torres;05/01/2025;1000;1;1000
+TIENDA02;Sucursal Norte;10022;Monitor Gaming;123456777;Pedro Sanchez;03/01/2025;450;4;1800
+TIENDA06;Sucursal Central;10018;Colchón;123456666;Luisa Fernandez;09/08/2024;310;2;620
+TIENDA05;Sucursal Este;10016;Armario;123456111;Jose Martinez;12/01/2025;1500;3;4500
+TIENDA06;Sucursal Central;10008;Cafetera;123456444;Ana Lopez;12/03/2025;240;1;240
+TIENDA07;Sucursal Chiriquí;10007;Mezclador;123456444;Ana Lopez;05/12/2024;200;3;600
+TIENDA04;Sucursal Oeste;10010;Freidor elétrico;123456111;Jose Martinez;28/07/2025;250;1;250
+TIENDA06;Sucursal Central;10003;Televisor;123456666;Luisa Fernandez;29/04/2024;3500;3;10500
+TIENDA06;Sucursal Central;10020;Impresora;123456222;Maria Garcia;25/02/2024;600;1;600
+TIENDA06;Sucursal Central;10010;Freidor elétrico;123456888;Elena Morales;30/03/2025;250;2;500
+TIENDA05;Sucursal Este;10022;Monitor Gaming;123456666;Luisa Fernandez;26/11/2024;450;3;1350
+TIENDA01;Matriz;10007;Mezclador;123456666;Luisa Fernandez;02/10/2024;200;1;200
+TIENDA04;Sucursal Oeste;10003;Televisor;123456000;Sofia Torres;05/11/2025;3500;5;17500
+TIENDA07;Sucursal Chiriquí;10003;Televisor;123456111;Jose Martinez;29/11/2025;3500;1;3500
+TIENDA05;Sucursal Este;10013;Estufa;123456333;Jorge Mateus;22/05/2025;600;1;600
+TIENDA05;Sucursal Este;10007;Mezclador;123456333;Jorge Mateus;23/04/2024;200;1;200
+TIENDA01;Matriz;10018;Colchón;123456444;Ana Lopez;17/03/2025;310;2;620
+TIENDA03;Sucursal Sur;10020;Impresora;123456333;Jorge Mateus;04/05/2024;600;1;600
+TIENDA02;Sucursal Norte;10004;Lavadora;123456333;Jorge Mateus;17/01/2025;2400;5;12000
+TIENDA03;Sucursal Sur;10012;Procesador de alimentos;123456222;Maria Garcia;26/10/2025;180;1;180
+TIENDA04;Sucursal Oeste;10013;Estufa;123456333;Jorge Mateus;25/11/2025;600;4;2400
+TIENDA04;Sucursal Oeste;10005;Laptop;123456555;Carlos Gomez;15/07/2025;3000;5;15000
+TIENDA01;Matriz;10005;Laptop;123456444;Ana Lopez;15/04/2024;3000;150;450000
+TIENDA02;Sucursal Norte;10099;Servidor Industrial R750;123456111;Jose Martinez;22/08/2024;55000;2;110000
+TIENDA03;Sucursal Sur;10011;Licuadora;123456555;Carlos Gomez;10/11/2024;80;400;32000
+TIENDA04;Sucursal Oeste;10003;Televisor;123456666;Luisa Fernandez;05/02/2025;35;10;350
+TIENDA05;Sucursal Este;10021;Aire Acondicionado;123456888;Elena Morales;18/06/2025;1800;60;108000
+TIENDA06;Sucursal Central;10022;Monitor Gaming;123456999;Ricardo Rivera;29/09/2025;450;85;38250
+TIENDA07;Sucursal Chiriquí;10023;Consola de Videojuegos;123456000;Sofia Torres;12/12/2024;700;50;35000
+TIENDA01;Matriz;10014;Refrigerador;123456222;Maria Garcia;03/03/2025;1200;40;48000
+TIENDA03;Sucursal Sur;10001;Smartphone;123456333;Jorge Mateus;14/01/2025;1500;0;0
+TIENDA04;Sucursal Oeste;10016;Armario;123456777;Pedro Sanchez;20/07/2024;1500;35;52500
